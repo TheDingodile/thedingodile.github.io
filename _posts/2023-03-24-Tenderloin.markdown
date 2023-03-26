@@ -6,6 +6,11 @@ categories: jekyll update
 ---
 
 ![please work2](/drugcrimes.JPG)
+![please work2](/drugcrimes.jpg)
+![please work2](../drugcrimes.jpg)
+![please work2](../drugcrimes.JPG)
+![please work2](./drugcrimes.JPG)
+![please work2](./drugcrimes.jpg)
 
 <iframe src="/TimeHeatmap.html"
     sandbox="allow-same-origin allow-scripts"
