@@ -6,6 +6,10 @@ categories: jekyll update
 ---
 
 ![please work2](master/plot.png)
+<img src="./_posts/plot.PNG" alt="lasagna">
+<img src="./plot.png" alt="lasagna">
+<img src="plot.png" alt="lasagna">
+<img src="/_posts/plot.PNG" alt="lasagna">
 
 <a href="drugs.JPG">
 <a href="plot.png">
