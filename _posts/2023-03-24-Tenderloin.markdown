@@ -40,7 +40,9 @@ In this next plot, we shall see how the distribution of drug-crimes varies insid
 ![please work2](/drugcrimes.jpg)
 In 2008 the drug incidents were just everywhere and at a large scale. A lot has happened since then. The northern and eastern part of Tenderloin has been almost cleared for drug incidents. As wikipedia claims, the incidents now mostly happen on the infamous “Turk Street” and nearby. A full visualization over all the years can be seen [here](https://thedingodile.github.io/TimeHeatmap.html).
 
-Finally, to further analyze this change over time, also in comparison to the rest of SF, we choose to include a plot that contains all this information.
-(Use third plot).
-We
+In order to further analyze the change over time, specifically in relation to the rest of SF, we choose to include a plot that demonstrate the quantile of drug incidents per area as it changes over time, as well as how the dayli occurences of incidents change. It is to be noted the area of Tenderloin is approximately 0.6 square kilometers.
+
+![please work3](/barplot.jpg)
+
+In 2008 the drug incidents were at its highest all over SF, but particularly Tenderloin, with more than 10 occurences per day in Tenderloin. It has since dropped significantly to less than 2 per day. This is a 
 
