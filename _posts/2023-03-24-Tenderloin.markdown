@@ -8,13 +8,13 @@ full-width: true
 
 **Introduction**
 
-San Francisco (SF) is one of the cities in the USA with the highest crime rates. Particularly in the small district, Tenderloin, the sheer amount of crimes per year is shocking. 
+San Francisco (SF) is one of the cities in the USA with the [highest crime rates](https://en.wikipedia.org/wiki/List_of_United_States_cities_by_crime_rate). Particularly in the small district, Tenderloin, the sheer amount of crimes per year is shocking. 
 
-Thanks to technological evolution, a newborn predictive policy has taken place in the data science sector. The implementation of huge crime databases allow law enforcement and researchers to adapt a better overview of “crime hot spots” and analyze the historical evolution of crimes. 
+Thanks to technological evolution, a newborn predictive policy has taken place in the data science sector. The implementation of huge crime databases allow law enforcement and researchers to adapt a better overview of “crime hot spots” and [analyze](https://www.wired.com/insights/2013/08/predictive-policing-using-machine-learning-to-detect-patterns-of-crime/) the historical evolution of crimes. 
 
 In this article we explore the crime history from 2003 to 2017 of the poorest district of San Francisco: Tenderloin. [A district that is “infamous for drugs, homelessness and crime”](https://sfstandard.com/criminal-justice/how-serious-is-tenderloins-drug-problem-heres-what-city-data-says/)
 
-We have access to a database consisting of crimes from 2003 to 2017 over all of SF categorized by crime-type, location, time of incident, and much more. The dataset has more than 2 million incidents covered.
+We have access to a publicly available dataset from [SF OpenData](https://datasf.org/opendata/) consisting of crimes from 2003 to 2017 over all of SF categorized by crime-type, location, time of incident, and much more. The dataset has more than 2 million incidents covered.
 
 **Tenderloin - the “peak” of the city**
 
