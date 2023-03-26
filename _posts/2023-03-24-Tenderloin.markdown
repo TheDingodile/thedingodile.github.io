@@ -11,7 +11,7 @@ full-width: true
 <iframe src="/bokeh.html"
     sandbox="allow-same-origin allow-scripts"
     width="100%"
-    height="350"
+    height="1000"
     scrolling="no"
     seamless="seamless"
     frameborder="0">
