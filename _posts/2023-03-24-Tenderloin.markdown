@@ -35,10 +35,10 @@ So this is where the story leads us, into the enormous drug-market that exists i
 **Where, why and when?**
 
 According to [wikipedia](https://en.wikipedia.org/wiki/Tenderloin,_San_Francisco) the street “Turk street” is particularly infested.
-In this next plot, we shall see how the distribution of drug-crimes varies inside Tenderloin. In addition, we show this visualization from 2008, where the drug-crimes were at its highest, till recent time.
+In this next plot, we shall see how the distribution of drug-crimes varies inside Tenderloin. In addition, we show this visualization from 2008, where the drug-crimes were at its highest, till as recent time as possible (2017).
 
 ![please work2](/drugcrimes.jpg)
-It seems in 2008 drug incidents were just everywhere and that a big change has happened since then. In addition, it seems the northern and eastern part of Tenderloin has been almost cleared. As wikipedia claims, the drug-incidents now mostly happen on the infamous “Turk Street” and nearby. A full visualization over all the years can be seen [here](https://thedingodile.github.io/TimeHeatmap.html).
+In 2008 the drug incidents were just everywhere and at a large scale. A lot has happened since then. The northern and eastern part of Tenderloin has been almost cleared for drug incidents. As wikipedia claims, the incidents now mostly happen on the infamous “Turk Street” and nearby. A full visualization over all the years can be seen [here](https://thedingodile.github.io/TimeHeatmap.html).
 
 Finally, to further analyze this change over time, also in comparison to the rest of SF, we choose to include a plot that contains all this information.
 (Use third plot).
