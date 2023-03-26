@@ -8,7 +8,7 @@ This website is for assignment 2 in the class 02806 Social Data Analysis and Vis
 
 Course website: [02806 F23](https://github.com/suneman/socialdata2023/wiki)
 
-Authors:
-Davide Venuto
-Jakob Boëtius Andersen
+Authors: <br>
+Davide Venuto <br>
+Jakob Boëtius Andersen <br>
 Huayuan Song
