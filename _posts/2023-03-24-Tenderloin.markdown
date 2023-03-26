@@ -5,7 +5,12 @@ date:   2023-03-24 14:18:41 +0100
 categories: jekyll update
 ---
 
-![please work2](/drugs.JPG)
+![please work2](/drugcrimes.JPG)
+![please work2](/drugcrimes.jpg)
+![please work2](../drugcrimes.jpg)
+![please work2](../drugcrimes.JPG)
+![please work2](./drugcrimes.JPG)
+![please work2](./drugcrimes.jpg)
 
 <iframe src="/TimeHeatmap.html"
     sandbox="allow-same-origin allow-scripts"
