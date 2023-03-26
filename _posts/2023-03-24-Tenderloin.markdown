@@ -42,7 +42,8 @@ In 2008 the drug incidents were just everywhere and at a large scale. A lot has 
 
 In order to further analyze the change over time, specifically in relation to the rest of SF, we choose to include a plot that demonstrate the quantile of drug incidents per area as it changes over time, as well as how the dayli occurences of incidents change. It is to be noted the area of Tenderloin is approximately 0.6 square kilometers.
 
-![please work3](/barplot.jpg)
+![please work3](/barplot.png)
+![please work3](/barplot.PNG)
 
 In 2008 the drug incidents were at its highest all over SF, but particularly Tenderloin, with more than 10 occurences per day in Tenderloin. It has since dropped significantly to less than 2 per day. This is a 
 
