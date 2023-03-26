@@ -5,7 +5,7 @@ date:   2023-03-24 14:18:41 +0100
 categories: jekyll update
 ---
 
-![please work2](master/plot.png)
+![please work2](./drugs.JPG)
 <img src="./_posts/plot.PNG" alt="lasagna">
 <img src="./plot.png" alt="lasagna">
 <img src="plot.png" alt="lasagna">
