@@ -6,18 +6,28 @@ categories: jekyll update
 ---
 
 ![please work2](/drugs.JPG)
-![please work2](/drugs.jpg)
-<img src="./_posts/plot.PNG" alt="lasagna">
-<img src="./plot.png" alt="lasagna">
-<img src="plot.png" alt="lasagna">
-<img src="/_posts/plot.PNG" alt="lasagna">
-
-<a href="drugs.JPG">
-<a href="plot.png">
 
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-<iframe src="TimeHeatmap.html"
+<iframe src="/TimeHeatmap.html"
+    sandbox="allow-same-origin allow-scripts"
+    width="100%"
+    height="500"
+    scrolling="no"
+    seamless="seamless"
+    frameborder="0">
+</iframe>
+
+<iframe src="../TimeHeatmap.html"
+    sandbox="allow-same-origin allow-scripts"
+    width="100%"
+    height="500"
+    scrolling="no"
+    seamless="seamless"
+    frameborder="0">
+</iframe>
+
+<iframe src="./TimeHeatmap.html"
     sandbox="allow-same-origin allow-scripts"
     width="100%"
     height="500"
