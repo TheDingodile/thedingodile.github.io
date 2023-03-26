@@ -18,6 +18,15 @@ You’ll find this post in your `_posts` directory. Go ahead and edit it and re-
     frameborder="0">
 </iframe>
 
+<iframe src="/bokeh.html"
+    sandbox="allow-same-origin allow-scripts"
+    width="100%"
+    height="500"
+    scrolling="no"
+    seamless="seamless"
+    frameborder="0">
+</iframe>
+
 <iframe src="../TimeHeatmap.html"
     sandbox="allow-same-origin allow-scripts"
     width="100%"
