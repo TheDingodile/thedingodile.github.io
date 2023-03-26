@@ -21,10 +21,7 @@
 title: Social Data is the New Oil
 email: jakob@3esser.dk
 description: >- # this means to ignore newlines until "baseurl:"
-  This is a blog about social data, social media, and the new oil.
-  I write about how to use social data to make better decisions.
-  I also write about how to use social media to build a better business.
-  I am a social data scientist and a social media strategist.
+  This is a blog containing assignments for the social data class at DTU.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
