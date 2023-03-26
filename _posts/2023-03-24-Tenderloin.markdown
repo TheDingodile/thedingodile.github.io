@@ -13,7 +13,14 @@ In this article we explore the crime history from 2003 to 2017 of the poorest di
 We have access to a database consisting of crimes from 2003 to 2017 over all of SF categorized by crime-type, location, time of incident, and much more. The dataset has more than 2 million incidents covered.
 Tenderloin - the “peak” of the city
 Let us start by giving the reader the opportunity to explore the dataset themselves. In this visualization the reader is able to get an idea of the distribution of all the crimes-types in SF. In particular, it is encouraged to compare Tenderloin's crime-density to any of the surrounding neighborhood districts.
-![please work2](/drugcrimes.jpg)
+<iframe src="/bokeh.html"
+    sandbox="allow-same-origin allow-scripts"
+    width="150%"
+    height="800"
+    scrolling="no"
+    seamless="seamless"
+    frameborder="0">
+</iframe>
 What is most amazing is the consistency at which Tenderloin scores higher than the other districts. And, impressively more so, the drug crime density of Tenderloins is more than 20 times higher than the second highest scoring one (Southern).
 As claimed by this article (although 2022) (https://abc7news.com/sf-tenderloin-drug-arrests-narcan-homeless/11535735/ ) , more than 85 percent of all drug-related arrests in SF happen in Tenderloin.
 So this is where we will take this story, into the enormous drug-market that exists in Tenderloin. The next questions to ask are: where in the Tenderloin does these drug incidents happen? Why particularly here? And are we seeing any changes over time?
