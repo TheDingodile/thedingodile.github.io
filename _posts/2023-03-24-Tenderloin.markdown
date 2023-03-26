@@ -38,12 +38,17 @@ According to [wikipedia](https://en.wikipedia.org/wiki/Tenderloin,_San_Francisco
 In this next plot, we shall see how the distribution of drug-crimes varies inside Tenderloin. In addition, we show this visualization from 2008, where the drug-crimes were at its highest, till as recent time as possible (2017).
 
 ![please work2](/drugcrimes.jpg)
-In 2008 the drug incidents were just everywhere and at a large scale. A lot has happened since then. The northern and eastern part of Tenderloin has been almost cleared for drug incidents. As wikipedia claims, the incidents now mostly happen on the infamous “Turk Street” and nearby. A full visualization over all the years can be seen [here](https://thedingodile.github.io/TimeHeatmap.html).
+In 2008 the drug incidents were just everywhere and at a large scale. A lot has happened since then. The northern and eastern part of Tenderloin has been almost cleared for drug incidents. As wikipedia claims, the incidents now mostly happen on the infamous “Turk Street” and nearby. A full visualization over all the years can be seen [here](https://thedingodile.github.io/TimeHeatmap.html). Apparently, Turk Street has a history as a drug-infested street, and acts as a major drug hub in the city.
 
 In order to further analyze the change over time, specifically in relation to the rest of SF, we choose to include a plot that demonstrate the quantile of drug incidents per area as it changes over time, as well as how the dayli occurences of incidents change. It is to be noted the area of Tenderloin is approximately 0.6 square kilometers.
 
 ![please work3](/barplot.png)
-![please work3](/barplot.PNG)
 
-In 2008 the drug incidents were at its highest all over SF, but particularly Tenderloin, with more than 10 occurences per day in Tenderloin. It has since dropped significantly to less than 2 per day. This is a 
+In 2008/2009 the drug incidents had generally been increasing for many years and were now at its highest all over SF, and particularly Tenderloin, with more than 20 occurences per day per square kilometer in Tenderloin. It has since dropped significantly all over and in Tenderloin to less than 4. This is a huge progress, as the heatmap also demonstrated. Not only that, Tenderloin has been making relative progress compared to the rest of SF.
+
+**Conclusion**
+
+In this article we have explored the crime history from 2003 to 2017 of the poorest district of San Francisco: Tenderloin. We have seen that the drug incidents in Tenderloin are particularly high, but that the drug incidents have been decreasing since 2008 over time, specifically in the Northern and Eastern part of the district. In addition, we have seen that the drug incidents in Tenderloin have been decreasing relative to the rest of SF.
+
+
 
