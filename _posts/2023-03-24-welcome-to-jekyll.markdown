@@ -6,6 +6,12 @@ categories: jekyll update
 ---
 
 ![please work2](./drugs.JPG)
+![please work2](./drugs.jpg)
+![please work2](drugs.JPG)
+![please work2](drugs.jpg)
+![please work2](../drugs.jpg)
+![please work2](./drugs.JPG)
+![please work2](../drugs.JPG)
 <img src="./_posts/plot.PNG" alt="lasagna">
 <img src="./plot.png" alt="lasagna">
 <img src="plot.png" alt="lasagna">
