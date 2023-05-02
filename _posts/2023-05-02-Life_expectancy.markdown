@@ -12,7 +12,7 @@ Japan is currently one of the countries with the highest life expectancy of all 
 
 If these questions whet the appetite, this article is for you.
 
-**notes**
+<!-- **notes**
 
 Stroke vs ischemic heart disease
 Good links:
@@ -20,6 +20,6 @@ Good links:
 https://observatoireprevention.org/en/2021/03/09/why-do-the-japanese-have-the-highest-life-expectancy-in-the-world/
 https://www.cdc.gov/stroke/risk_factors.htm (Risk of stroke times 2 every 10 years after 50)
 https://www.clinicbarcelona.org/en/assistance/diseases/ischemic-heart-disease/risk-factors (factors for the disease)
-
+ -->
 
 
