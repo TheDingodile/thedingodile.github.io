@@ -8,7 +8,7 @@ full-width: true
 
 **Introduction**
 
-Japan is currently one of the countries with the highest life expectancy of all time. The country has had an unprecedented rapid growth in the last 60 years. In this article we explore the global development of life expectancy with focus on Japan. Expect an interactive journey going from a worldwide perspective deepdiving into the fascinating story of Japan. What causes people to live longer? How has particularly Japan unlocked this potential? Is there a limit to to human longevity? 
+Japan is currently one of the countries with the highest life expectancy of all time. The country has had an unprecedented rapid growth in the last 60 years. In this article we explore the global development of life expectancy with focus on Japan. Get ready for an interactive journey going from a worldwide perspective deepdiving into the fascinating story of Japan. What causes people to live longer? How has particularly Japan unlocked this potential? Is there a limit to to human longevity? 
 
 If these questions whet the appetite, this article is for you.
 
