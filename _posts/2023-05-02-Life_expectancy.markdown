@@ -18,7 +18,7 @@ We start off with with a broad scope. Giving the reader a sense of the global tr
 
 <iframe src="/world.html"
     sandbox="allow-same-origin allow-scripts"
-    width="150%"
+    width="100%"
     height="800"
     scrolling="no"
     seamless="seamless"
