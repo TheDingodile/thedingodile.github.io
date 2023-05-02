@@ -8,11 +8,24 @@ full-width: true
 
 **Introduction**
 
-Japan is currently one of the countries with the highest life expectancy of all time. The country had an unprecedented rapid growth in the last 60 years. In this article we explore the global development of life expectancy with focus on Japan. What are the main drivers of life expectancy? How has Japan unlocked it's potential? Is there a limit to life expectancy? 
+Japan is currently one of the countries with the highest life expectancy of all time. The country had an unprecedented rapid growth in the last 60 years. In this article we explore from the global development of life expectancy with focus on Japan. The article is structured as an interactive journey starting with a worldwide view followed up with a deepdive into the peculiar story of Japan. What causes people to live longer? How has particularly Japan unlocked this potential? Is there a limit to to human longevity? 
 
 If these questions whet the appetite, this article is for you.
 
-<!-- **notes**
+**The last 60 years globally**
+
+
+
+**Are we approaching immortality?**
+Show plot with GNP vs life expectancy
+
+
+
+**Japan, a case study**
+
+
+
+**notes**
 
 Stroke vs ischemic heart disease
 Good links:
@@ -20,6 +33,6 @@ Good links:
 https://observatoireprevention.org/en/2021/03/09/why-do-the-japanese-have-the-highest-life-expectancy-in-the-world/
 https://www.cdc.gov/stroke/risk_factors.htm (Risk of stroke times 2 every 10 years after 50)
 https://www.clinicbarcelona.org/en/assistance/diseases/ischemic-heart-disease/risk-factors (factors for the disease)
- -->
+
 
 
