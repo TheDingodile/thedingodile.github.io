@@ -14,7 +14,9 @@ If these questions whet the appetite, this article is for you.
 
 **The last 60 years globally**
 
-We start off with with a broad scope. Giving the reader a sense of the global trend of life expectancy over the last 60 years. Particularly, the graph shows ... The sharp reader may have noticed that...
+We start off with with a broad scope. Giving the reader a sense of the development of life expectancy over the last 60 years. [During this period the world-wide life expectancy has increased from 50 to 72 years.](https://www.macrotrends.net/countries/WLD/world/life-expectancy) This is a remarkable development, and goes to show the exponential development of the world.
+
+Particularly, the graph shows ... The sharp reader may have noticed that...
 
 <iframe src="/world.html"
     sandbox="allow-same-origin allow-scripts"
