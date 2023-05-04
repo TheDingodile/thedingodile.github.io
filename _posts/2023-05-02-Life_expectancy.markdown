@@ -27,7 +27,7 @@ We start off in a broad scope by showing the global development in the last 60 y
 
 To further illustrate the extraordinary development some countries had in the last 60 years, we have this plot:
 
-<iframe src="/LE_development.html"
+<iframe src="/bokeh.html"
     sandbox="allow-same-origin allow-scripts"
     width="100%"
     height="800"
