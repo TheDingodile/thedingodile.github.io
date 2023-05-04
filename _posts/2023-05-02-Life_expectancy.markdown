@@ -30,7 +30,7 @@ We see how drastically Africa improves over the period. Meanwhile, the countries
 <iframe src="/bokeh.html"
     sandbox="allow-same-origin allow-scripts"
     width="100%"
-    height="550"
+    height="500"
     scrolling="no"
     seamless="seamless"
     frameborder="0">
@@ -74,6 +74,8 @@ Thus, one could expect that the next major factor has to do with improving life 
 We now go forward to 2021 where mortality death rate 
 
 ![life_ex_health_ex_gdp](/life_ex_health_ex_gdp.jpg)
+
+We see that the data resembles that of an logistic function.  
 
 (Plot of your expected age given your current age and country of residence for 1960 and 2020)
 
