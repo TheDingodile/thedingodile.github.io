@@ -8,7 +8,7 @@ full-width: true
 
 **Introduction**
 
-Japan is currently one of the countries with the highest life expectancy of all time. The country has had an consistent growth to the top in the last 60 years. In this article we explore the global development of life expectancy with focus on Japan. Get ready for an interactive journey going from a worldwide perspective deepdiving into the fascinating story of Japan. What causes people to live longer? How has particularly Japan unlocked this potential? Is there a limit to to human longevity? 
+Japan is currently one of the countries with the highest life expectancy of all time. The country has had an consistent growth to the top in the last 60 years. In this article we explore the global development of life expectancy with focus on Japan. Get ready for an interactive journey going from a worldwide perspective deepdiving into the fascinating story of Japan. How has life expectancy developed globally? What causes people to live longer? How has particularly Japan unlocked this potential? Is there a limit to to human longevity? 
 
 If these questions whet the appetite, this article is for you.
 
@@ -36,7 +36,7 @@ We see how drastically Africa improves over the period. Meanwhile, the countries
     frameborder="0">
 </iframe>
 
-It is the developing countries like China and Afghanistan that have seen the biggest improvement in life expectancy. The developed countries like Japan and the Scandinavian countries have also seen an improvement, but not nearly as drastic. As one could expect, it becomes harder and harder to push the boundaries of human longevity. The different mortality rates also gives rise to a quite different population structure. In developing countries the population is much younger, while in developed countries the population is much older. This is illustrated in the following plot.
+It is the developing countries like China and Afghanistan that have seen the biggest improvement in life expectancy. The developed countries like Japan and the Scandinavian countries have also seen an improvement, but not nearly as drastic. As one could expect, it becomes harder and harder to push the boundaries of human longevity. The different mortality rates also gives rise to a quite different population structures. In developing countries the population is much younger, while in developed countries the population is much older. This is illustrated in the following plot.
 
 
 <iframe src="/age.html"
@@ -48,11 +48,11 @@ It is the developing countries like China and Afghanistan that have seen the big
     frameborder="0">
 </iframe>
 
-Countries like Japan and China has had quite the shift in terms of their population pyramid. Going from the structure that characterizes developing countries, with a falling slopes for each year, to a more balanced, or even upwards-going distribution. Meanwhile, India is somewhere inbetween these two models, and countries like Afghanistan are still in the developing stage. The population pyramid is a good indicator of the development of a country, and is often used to classify countries into different stages of development. However, a population with most people being around retirement age is also scary. This is because the working population has to support the retired population. This is a problem that Japan is facing right now, and is one of the reasons why Japan is struggling with their economy.
+Countries like Japan and China has had quite the shift in terms of their population pyramid. Going from the structure that characterizes developing countries, with a falling slopes for each year, to a more balanced, or even upwards-going distribution. Meanwhile, India is somewhere inbetween these two models, and countries like Afghanistan are still in the developing stage. However, a population with mostly people around retirement age is scary aswell, as the working population has to support the retired population. This is a problem that Japan is facing right now, and is one of the reasons why Japan is [struggling with their economy.] (https://www.imf.org/en/News/Articles/2020/02/10/na021020-japan-demographic-shift-opens-door-to-reforms)
 
-**Infant Mortality: The Key to Improving Life Expectancy in Undeveloped Countries**
+**Infant mortality: the key to improving life expectancy in undeveloped countries**
 
-As seen in the previous section it would be considered lucky to live to the age of 30 in some of the undeveloped countries in Africa and even China (Which was during The Great Leap Forward) in 1960. The life expectancy in these countries is [comparable to the life expectancy in Europe in the 1800s](https://www.osfi-bsif.gc.ca/Eng/Docs/DEIP_Gallop.pdf). Similarly to that time in Europe, the low life expectancy is due to [high infant mortality](https://www.statista.com/statistics/1072803/child-mortality-rate-africa-historical/) and a high risk of dying from infectious diseases. Clearly, if you are unfortunate enough to die as a child, you will drag down the average life expectancy by a large margin. In a country where people die at age 80 on average, it would take 4 people to live to the age of 100 just to outweight the death of one child. This next plot demonstrates how reducing infant mortality rate is the first and biggest decider when it comes to increasing life expectancy overall.
+As seen in the previous section it would be considered lucky to live to the age of 30 during 1960 in some of the undeveloped countries in Africa and even China (Which was during The Great Leap Forward). The life expectancy in these countries is [comparable to the life expectancy in Europe in the 1800s](https://www.osfi-bsif.gc.ca/Eng/Docs/DEIP_Gallop.pdf). Similarly to that time in Europe, the low life expectancy is due to [high infant mortality](https://www.statista.com/statistics/1072803/child-mortality-rate-africa-historical/) and a high risk of dying from infectious diseases. Clearly, if you are unfortunate enough to die as a child, you will drag down the average life expectancy by a large margin. In a country where people die at age 80 on average, it would take 4 people to live to the age of 100 just to outweight the death of one child. This next plot demonstrates how reducing infant mortality rate is the first and biggest decider when it comes to increasing life expectancy overall.
 
 <iframe src="/Survival_rate.html"
     sandbox="allow-same-origin allow-scripts"
@@ -73,11 +73,11 @@ Thus, one could expect that the next major factor has to do with improving life 
 
 **With wealth comes health?**
 
-We now go forward to 2021 where mortality death rate 
+Moving forward to 2021 where infant mortality death rate is relatively insignificant for developed countries, we aim to find factors which seperate the countries with the highest life expectancy from the rest. We start by looking at the correlation between life expectancy, health expendure and GDP per capita.
 
 ![life_ex_health_ex_gdp](/life_ex_health_ex_gdp.jpg)
 
-We see that the data resembles that of an logistic function.  
+In both cases there is a strong trend. However, we also see that the data resembles that of an logistic function. And even a logistic function doesn't quite encaptulate the countries with the very largest wealth. This indicates that a country can only get so far (given the current technology) by spending money on health care. Here we also highlighted Japan and some other countries which are comparable to Japan in population size and development. 
 
 (Plot of your expected age given your current age and country of residence for 1960 and 2020)
 
