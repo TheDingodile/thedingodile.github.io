@@ -59,10 +59,13 @@ Show plot with GNP vs life expectancy
 **notes**
 
 Stroke vs ischemic heart disease
+
 Good links:
 
 https://observatoireprevention.org/en/2021/03/09/why-do-the-japanese-have-the-highest-life-expectancy-in-the-world/
+
 https://www.cdc.gov/stroke/risk_factors.htm (Risk of stroke times 2 every 10 years after 50)
+
 https://www.clinicbarcelona.org/en/assistance/diseases/ischemic-heart-disease/risk-factors (factors for the disease)
 
 **References**
@@ -70,8 +73,11 @@ https://www.clinicbarcelona.org/en/assistance/diseases/ischemic-heart-disease/ri
 (All data sources should be listen here)
 
 https://data.worldbank.org/indicator/SP.DYN.IMRT.IN?locations=ZG (Infant mortality rate)
+
 https://ourworldindata.org/life-expectancy (Inspiration for plots and data)
+
 https://www.lifetable.de/ (All life-table data has been downloaded from here)
+
 
 
 
