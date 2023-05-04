@@ -77,27 +77,15 @@ Moving forward to 2021 where infant mortality death rate is relatively insignifi
 
 ![life_ex_health_ex_gdp](/life_ex_health_ex_gdp.jpg)
 
-In both cases there is a strong trend. However, we also see that the data resembles that of an logistic function. And even a logistic function doesn't quite encaptulate the countries with the very largest wealth. This indicates that a country can only get so far (given the current technology) by spending money on health care. Here we also highlighted Japan and some other countries which are comparable to Japan in population size and development. 
+In both cases there is a strong trend. However, we also see that the data resembles that of an logistic function. And even a logistic function doesn't quite encaptulate the countries with the very largest wealth. This indicates that a country can only get so far (given the current technology) by having money and spending money on health care. Here we also highlighted Japan and some other countries which are comparable to Japan in population size and development. Some interesting observations are USA being number one in terms of spending money on healthcare, while remaining relatively low in terms of life expectancy. Meanwhile, some of the top countries in terms of life expectancy, like Japan and Italy, are not in the top in terms of GDP per capita or health care expenditure. Rather, they score average in these two categories compared to similarly developed countries. This indicates that there are other factors at play here.
 
-(Plot of your expected age given your current age and country of residence for 1960 and 2020)
+**The importance of a healthy lifestyle**
 
-So it would be fair to say that with wealth comes health, to some extend, and under the right circumstances. 
-
-As of now, we have only investigated 
-
-Particularly, the graph shows ... The sharp reader may have noticed that...
-
-
-
-
-**Are we approaching immortality?**
-Show plot with GNP vs life expectancy
-
-
+As of now, we have only investigated life expectancy from a societal or national stand-point.
 
 **Japan, a case study**
 
-
+**Are we approaching immortality?**
 
 **notes**
 
