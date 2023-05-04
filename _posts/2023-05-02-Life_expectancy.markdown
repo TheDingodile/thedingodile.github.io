@@ -22,7 +22,7 @@ We start off in a broad scope with a plot showing the global development in the 
     height="800"
     scrolling="no"
     seamless="seamless"
-    frameborder="1">
+    frameborder="0">
 </iframe>
 
 As seen in the world-map it would be considered lucky to live to the age of 30 in some of the undeveloped countries in Africa and even China (Which was during The Great Leap Forward). The life expectancy in these countries is [comparable to the life expectancy in Europe in the 1800s.](https://www.osfi-bsif.gc.ca/Eng/Docs/DEIP_Gallop.pdf). Like the time back in Europe, the low life expectancy is due to [high infant mortality](https://www.statista.com/statistics/1072803/child-mortality-rate-africa-historical/) and a high risk of dying from infectious diseases. W
