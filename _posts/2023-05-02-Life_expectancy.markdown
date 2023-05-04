@@ -19,7 +19,7 @@ We start off in a broad scope by showing the global development in the last 60 y
 <iframe src="/world.html"
     sandbox="allow-same-origin allow-scripts"
     width="100%"
-    height="550"
+    height="580"
     scrolling="no"
     seamless="seamless"
     frameborder="0">
@@ -30,7 +30,7 @@ As seen in the world-map it would be considered lucky to live to the age of 30 i
 <iframe src="/Survival_rate.html"
     sandbox="allow-same-origin allow-scripts"
     width="100%"
-    height="400"
+    height="350"
     scrolling="no"
     seamless="seamless"
     frameborder="0">
