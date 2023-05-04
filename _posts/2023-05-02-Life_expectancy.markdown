@@ -46,7 +46,7 @@ It is the developing countries like China and Afghanistan that have seen the big
     frameborder="0">
 </iframe>
 
-Countries like Japan and China has had quite the shift in terms of their population pyramid. Going from the structure that characterizes developing countries, with a falling slopes for each year, to a more balanced, or even upwards-going distribution. Meanwhile, India is somewhere inbetween these two models, and countries like Afghanistan are still in the developing stage. However, a population with mostly people around retirement age is scary aswell, as the working population has to support the retired population. This is a problem that Japan is facing right now, and is one of the reasons why Japan is [struggling with their economy.] (https://www.imf.org/en/News/Articles/2020/02/10/na021020-japan-demographic-shift-opens-door-to-reforms)
+Countries like Japan and China has had quite the shift in terms of their population pyramid. Going from the structure that characterizes developing countries, with a falling slopes for each year, to a more balanced, or even upwards-going distribution. Meanwhile, India is somewhere inbetween these two models, and countries like Afghanistan are still in the developing stage. However, a population with mostly people around retirement age is scary aswell, as the working population has to support the retired population. This is a problem that Japan is facing right now, and is one of the reasons why Japan is [struggling with their economy.](https://www.imf.org/en/News/Articles/2020/02/10/na021020-japan-demographic-shift-opens-door-to-reforms)
 
 **Infant mortality: the key to improving life expectancy in undeveloped countries**
 
