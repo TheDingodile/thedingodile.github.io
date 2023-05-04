@@ -36,6 +36,8 @@ We see how drastically Africa improves over the period. Meanwhile, the countries
     frameborder="0">
 </iframe>
 
+It is the developing countries like China and Afghanistan that have seen the biggest improvement in life expectancy. The developed countries like Japan and the Scandinavian countries have also seen an improvement, but not nearly as drastic. This is due to the fact that the developed countries already had a high life expectancy in 1960. The following plot shows the life expectancy of the top 10 countries in 1960 and 2020.
+
 
 <iframe src="/age.html"
     sandbox="allow-same-origin allow-scripts"
