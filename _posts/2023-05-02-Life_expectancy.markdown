@@ -25,7 +25,20 @@ We start off in a broad scope by showing the global development in the last 60 y
     frameborder="0">
 </iframe>
 
-As seen in the world-map it would be considered lucky to live to the age of 30 in some of the undeveloped countries in Africa and even China (Which was during The Great Leap Forward) in 1960. The life expectancy in these countries is [comparable to the life expectancy in Europe in the 1800s](https://www.osfi-bsif.gc.ca/Eng/Docs/DEIP_Gallop.pdf). Similarly to that time in Europe, the low life expectancy is due to [high infant mortality](https://www.statista.com/statistics/1072803/child-mortality-rate-africa-historical/) and a high risk of dying from infectious diseases. Clearly, if you are unfortunate enough to die as a child, you will drag down the average life expectancy by a large margin. In a country where people die at age 80 on average, it would take 4 people to live to the age of 100 just to outweight the death of one child. This next plot demonstrates how reducing infant mortality rate is the first and biggest decider when it comes to increasing life expectancy overall.
+To further illustrate the extraordinary development some countries had in the last 60 years, we have this plot:
+
+<iframe src="/LE_development.html"
+    sandbox="allow-same-origin allow-scripts"
+    width="150%"
+    height="500"
+    scrolling="no"
+    seamless="seamless"
+    frameborder="0">
+</iframe>
+
+
+
+As seen in the previous plots it would be considered lucky to live to the age of 30 in some of the undeveloped countries in Africa and even China (Which was during The Great Leap Forward) in 1960. The life expectancy in these countries is [comparable to the life expectancy in Europe in the 1800s](https://www.osfi-bsif.gc.ca/Eng/Docs/DEIP_Gallop.pdf). Similarly to that time in Europe, the low life expectancy is due to [high infant mortality](https://www.statista.com/statistics/1072803/child-mortality-rate-africa-historical/) and a high risk of dying from infectious diseases. Clearly, if you are unfortunate enough to die as a child, you will drag down the average life expectancy by a large margin. In a country where people die at age 80 on average, it would take 4 people to live to the age of 100 just to outweight the death of one child. This next plot demonstrates how reducing infant mortality rate is the first and biggest decider when it comes to increasing life expectancy overall.
 
 <iframe src="/Survival_rate.html"
     sandbox="allow-same-origin allow-scripts"
@@ -36,7 +49,13 @@ As seen in the world-map it would be considered lucky to live to the age of 30 i
     frameborder="0">
 </iframe>
 
-All of the relatively less developed countries, like India, Brazil and South Africa, displays the same trend of a sharp drop in survival rate for the first 5 years of a childs life in 1960. In India, for example, you would have a 20 percent chance of dying before the age of 5. This trend is similar to what is seen in Denmark around 1900 (Which also is toggle-able in the plot). After the first 5 years the survival rate is more flat until the age of around 50 where it starts to drop again. The infant mortality rate is primarly relevant for the poorest countries, and is often not the deciding factor of life expectancy between two developed countries. Thus, one could expect that the next major factor has to do with improving life of those over 50 years old by investing and advancing the medical field, and by building a society where everyone has access to these tools. A natural question to ask is then: Does the life expectancy of a country correlate with the wealth and health expenditure of the country? In the next section we explore this question.
+All of the relatively less developed countries, like India, Brazil and South Africa, displays the same trend of a sharp drop in survival rate for the first 5 years of a childs life in 1960. In India, for example, you would have a 20 percent chance of dying before the age of 5. This trend is similar to what is seen in Denmark around 1900 (Which also is toggle-able in the plot). After the first 5 years the survival rate is more flat until the age of around 50 where it starts to drop again. The infant mortality rate is primarly a problem for the poorest countries, and is often not the deciding factor of life expectancy between two developed countries. 
+
+
+
+
+
+Thus, one could expect that the next major factor has to do with improving life of those over 50 years old by investing and advancing the medical field, and by building a society where everyone has access to these tools. A natural question to ask is then: Does the life expectancy of a country correlate with the wealth and health expenditure of the country? In the next section we explore this question.
 
 **With wealth comes health?**
 
