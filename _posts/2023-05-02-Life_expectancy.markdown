@@ -93,7 +93,6 @@ The Japanese has a culture of eating little red meat and high amount of seafood 
 
 The following table compares Japan to other countries in terms of diet:
 
-![diet](/diet.jpg)
 ![diet](/diet.JPG)
 
 
