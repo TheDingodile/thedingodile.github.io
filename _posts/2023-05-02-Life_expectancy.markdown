@@ -19,7 +19,7 @@ We start off in a broad scope with a plot showing the global development in the 
 <iframe src="/world.html"
     sandbox="allow-same-origin allow-scripts"
     width="100%"
-    height="800"
+    height="500"
     scrolling="no"
     seamless="seamless"
     frameborder="0">
@@ -30,17 +30,13 @@ As seen in the world-map it would be considered lucky to live to the age of 30 i
 <iframe src="/Survival_rate.html"
     sandbox="allow-same-origin allow-scripts"
     width="100%"
-    height="800"
+    height="400"
     scrolling="no"
     seamless="seamless"
     frameborder="0">
 </iframe>
 
 All of the less developed countries, for example India, Brazil and South Africa, has the same trend. There is a sharp drop in survival rate for the first 5 years of a childs life. This trend is similar to what is seen in Denmark around 1900 (Which is toggle-able in the plot). After this period the survival rate is almost constant until the age of 50 where it starts to drop again. This is due to the fact that the risk of dying from infectious diseases increases with age. The risk of dying from infectious diseases is particularly high in countries with a low GNP. This is because the GNP is a good indicator of the quality of the health care system. The next plot shows the correlation between GNP and life expectancy.
-
-
-if you are lucky enough to survive the first years of your life, you are likely to live a long life.
-
 
 (Plot of your expected age given your current age and country of residence for 1960 and 2020)
 
