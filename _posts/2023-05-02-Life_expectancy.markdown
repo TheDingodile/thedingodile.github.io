@@ -36,15 +36,19 @@ As seen in the world-map it would be considered lucky to live to the age of 30 i
     frameborder="0">
 </iframe>
 
-All of the relatively less developed countries, like India, Brazil and South Africa, displays the same trend of a sharp drop in survival rate for the first 5 years of a childs life in 1960. In India, for example, you would have a 20 percent chance of dying before the age of 5. This trend is similar to what is seen in Denmark around 1900 (Which also is toggle-able in the plot). After this period the survival rate is more flat until the age of around 50 where it starts to drop again. Thus, one could expect that the next major factor for life expectancy after mortality rate has to do with improving life of those over 50 years old by investing and advancing the medical field, and by building a society where everyone has access to these tools. A natural question to ask is then: Does the life expectancy of a country correlate with the wealth of the country? The next plot shows the correlation between the GNP and health expensure of a country and its life expectancy.
+All of the relatively less developed countries, like India, Brazil and South Africa, displays the same trend of a sharp drop in survival rate for the first 5 years of a childs life in 1960. In India, for example, you would have a 20 percent chance of dying before the age of 5. This trend is similar to what is seen in Denmark around 1900 (Which also is toggle-able in the plot). After the first 5 years the survival rate is more flat until the age of around 50 where it starts to drop again. The infant mortality rate is primarly relevant for the poorest countries, and is often not the deciding factor of life expectancy between two developed countries. Thus, one could expect that the next major factor has to do with improving life of those over 50 years old by investing and advancing the medical field, and by building a society where everyone has access to these tools. A natural question to ask is then: Does the life expectancy of a country correlate with the wealth and health expenditure of the country? In the next section we explore this question.
 
 **With wealth comes health?**
+
+We now go forward to 2021 where mortality death rate 
 
 ![life_ex_health_ex_gdp](/life_ex_health_ex_gdp.jpg)
 
 (Plot of your expected age given your current age and country of residence for 1960 and 2020)
 
+So it would be fair to say that with wealth comes health, to some extend, and under the right circumstances. 
 
+As of now, we have only investigated 
 
 Particularly, the graph shows ... The sharp reader may have noticed that...
 
