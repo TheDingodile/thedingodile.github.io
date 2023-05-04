@@ -79,14 +79,34 @@ In both cases there is a strong trend. However, we also see that the data resemb
 
 **The importance of a healthy lifestyle**
 
-As of now, we have only investigated life expectancy from a societal or national stand-point. It is time to dive into individuals and look at things such as lifestyle, diet and culture. In order to figure out what effect these factors have, we will investigate the specific cause of death in different countries. If we know the cause of death, we can relate this to the lifestyle of the people in that country.
+As of now, we have only investigated life expectancy from a societal or national stand-point. It is time to dive into individuals and look at things such as lifestyle, diet and culture. In order to figure out what effect these factors have, we will investigate the specific cause of death in different countries. If we know the cause of death, we can relate this to the lifestyle of the people in that country. Here we show the top 10 causes of death in Japan, Germany and Italy.
 
 
 ![cause_of_death](/cause_of_death.jpg)
 
+
+In general, these top 10 causes of death makes up around 50 percent of all deaths in the country. [Globally speaking](https://www.who.int/news-room/fact-sheets/detail/the-top-10-causes-of-death), it is more or less the same causes as seen here that constitutes most deaths. Thus, to see such discrepancy in for example Isochaemic heart disease is quite significant. Some of the categories varies somewhat, Japan, for example, has suicide (self-harm) as one of the top 10 causes of death in the country. Indeed, even though Japan has the highest life expectancy, it is still beaten in quite some categories, particularly strokes are quite frequent.
+
 **Japan, a case study**
 
-**Are we approaching immortality?**
+The Japanese has a culture of eating little red meat and high amount of seafood and plantfood such as soybeans and tea. For example, on average the Japanese eat less than half as much meat as Canadians. Instead, they replace the meat with seafood (which is associated with a lower risk of ischemic heart disease, but an increased risk of stroke)[https://observatoireprevention.org/en/2021/03/09/why-do-the-japanese-have-the-highest-life-expectancy-in-the-world/].
+
+The following table compares Japan to other countries in terms of diet:
+
+![diet](/diet.jpg)
+
+
+
+
+
+
+So while Japan has an outstanding life expectancy, it is nowhere near perfect in all categories.
+
+**Are we then approaching immortality?**
+
+vegans? What is the research?
+
+Oldest man alive is constant. We can maybe keep everyone alive till they are 100 and then the drop will be sharp, as we see in the fraction plot.
 
 **notes**
 
@@ -94,7 +114,7 @@ Stroke vs ischemic heart disease
 
 Good links:
 
-https://observatoireprevention.org/en/2021/03/09/why-do-the-japanese-have-the-highest-life-expectancy-in-the-world/
+https://observatoireprevention.org/en/2021/03/09/why-do-the-japanese-have-the-highest-life-expectancy-in-the-world/ (Why Japan diet good)
 
 https://www.cdc.gov/stroke/risk_factors.htm (Risk of stroke times 2 every 10 years after 50)
 
@@ -109,6 +129,8 @@ https://data.worldbank.org/indicator/SP.DYN.IMRT.IN?locations=ZG (Infant mortali
 https://ourworldindata.org/life-expectancy (Inspiration for plots and data)
 
 https://www.lifetable.de/ (All life-table data has been downloaded from here)
+
+https://www.worldlifeexpectancy.com/cause-of-death/coronary-heart-disease/by-country/ (Cause of death)
 
 
 
