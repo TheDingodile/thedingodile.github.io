@@ -40,7 +40,7 @@ All of the relatively less developed countries, like India, Brazil and South Afr
 
 **With wealth comes health?**
 
-
+![life_ex_health_ex_gdp](/life_ex_health_ex_gdp.jpg)
 
 (Plot of your expected age given your current age and country of residence for 1960 and 2020)
 
