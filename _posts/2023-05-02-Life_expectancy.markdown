@@ -100,19 +100,22 @@ Some of the risk factors of Ischaemic heart disease are [smoking, high blood pre
 
 Thus, a natural question to ask is: what happens if you live your life perfectly according to these risk factors?
 
-**Are we then approaching immortality?**
+**Are we approaching immortality?**
 
 vegans? What is the research?
 
 Oldest man alive is constant. We can maybe keep everyone alive till they are 100 and then the drop will be sharp, as we see in the fraction plot.
 
-**notes**
 
-Why is it interesting?
+**conclusion**
+Should answer:
 
+How has life expectancy developed globally?
 What factors contribute to longer life? 
 How has Japan unlocked its potential for longevity? 
 Is there a limit to human lifespan?
+Why is it interesting?
+
 
 **References**
 
