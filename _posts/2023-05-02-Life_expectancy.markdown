@@ -120,13 +120,24 @@ https://www.clinicbarcelona.org/en/assistance/diseases/ischemic-heart-disease/ri
 
 [https://ourworldindata.org/life-expectancy](https://ourworldindata.org/life-expectancy) (Inspiration for plots and data)
 
-[https://www.lifetable.de/](https://www.lifetable.de/) (All life-table data has been downloaded from here)
-
 [https://www.worldlifeexpectancy.com/cause-of-death/coronary-heart-disease/by-country/](https://www.worldlifeexpectancy.com/cause-of-death/coronary-heart-disease/by-country/) (Cause of death by country)
 
 [https://www.cdc.gov/stroke/risk_factors.htm](https://www.cdc.gov/stroke/risk_factors.htm) (Risk of stroke times 2 every 10 years after 50)
 
 **All data sources**
+
+[https://www.who.int/data/gho/data/themes/mortality-and-global-health-estimates/ghe-leading-causes-of-death?fbclid=IwAR081vAnkAIl9uqx9fAs4uHtVPJJMMZI4ah4Qv-_6I0aR5SupFtyHWkOf9A](Data on cause of death, data is from WHO)
+
+[https://www.lifetable.de/](https://www.lifetable.de/) (All life-table data has been downloaded from here, internal sources can be found in link)
+
+[https://www.kaggle.com/datasets/ulrikthygepedersen/life-expectancy?fbclid=IwAR0JO7W1_G3prS0O48OITDxvSeQPm64MtaUOIbfNjBCzcHttAUh_tC3xJME](https://www.kaggle.com/datasets/ulrikthygepedersen/life-expectancy?fbclid=IwAR0JO7W1_G3prS0O48OITDxvSeQPm64MtaUOIbfNjBCzcHttAUh_tC3xJME) (Life expectancy data for years 1960 to 2019 for many countries, data is from WHO)
+
+[https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?fbclid=IwAR2Jf_Asqt1WWMuQ_S1bobud8Q36WcVEYDx4lF0RrdCprmiESBD0yyNaGDk](https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?fbclid=IwAR2Jf_Asqt1WWMuQ_S1bobud8Q36WcVEYDx4lF0RrdCprmiESBD0yyNaGDk) (For GDP per capita and health expenditure per capita, data os from World Bank)
+
+[https://www.populationpyramid.net](https://www.populationpyramid.net) (Population pyramid for all countries)
+
+
+
 
 
 
