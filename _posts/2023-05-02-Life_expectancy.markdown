@@ -126,7 +126,7 @@ https://www.clinicbarcelona.org/en/assistance/diseases/ischemic-heart-disease/ri
 
 **All data sources**
 
-[https://www.who.int/data/gho/data/themes/mortality-and-global-health-estimates/ghe-leading-causes-of-death?fbclid=IwAR081vAnkAIl9uqx9fAs4uHtVPJJMMZI4ah4Qv-_6I0aR5SupFtyHWkOf9A](Data on cause of death, data is from WHO)
+[https://www.who.int/data/gho/data/themes/mortality-and-global-health-estimates/ghe-leading-causes-of-death?fbclid=IwAR081vAnkAIl9uqx9fAs4uHtVPJJMMZI4ah4Qv-_6I0aR5SupFtyHWkOf9A](https://www.who.int/data/gho/data/themes/mortality-and-global-health-estimates/ghe-leading-causes-of-death?fbclid=IwAR081vAnkAIl9uqx9fAs4uHtVPJJMMZI4ah4Qv-_6I0aR5SupFtyHWkOf9A) (Data on cause of death, data is from WHO)
 
 [https://www.lifetable.de/](https://www.lifetable.de/) (All life-table data has been downloaded from here, internal sources can be found in link)
 
