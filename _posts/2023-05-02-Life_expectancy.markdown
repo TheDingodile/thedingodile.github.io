@@ -25,7 +25,7 @@ We start off in a broad scope by showing the global development in the last 60 y
     frameborder="0">
 </iframe>
 
-To further illustrate the extraordinary development some countries had in the last 60 years, we have this plot:
+We see how drastically Africa improves over the period. Meanwhile, the countries which are leading the pack in 1960, like the Scandinavia, Australia, Japan and Canada are still at the top in 2020. However, the gap between the top and the bottom has been reduced significantly. Worth noticing is also the unparalleled improvement in China, which has gone from a life expectancy of 33 years in 1960 to 78 years in 2020. This is a remarkable improvement in only 60 years. To better illustrate the sheer magnitude of this development we made the following bar-chart.
 
 <iframe src="/bokeh.html"
     sandbox="allow-same-origin allow-scripts"
