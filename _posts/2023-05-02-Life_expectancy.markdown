@@ -114,17 +114,17 @@ https://www.clinicbarcelona.org/en/assistance/diseases/ischemic-heart-disease/ri
 
 **References**
 
-https://observatoireprevention.org/en/2021/03/09/why-do-the-japanese-have-the-highest-life-expectancy-in-the-world/ (Why Japan diet good)
+[https://observatoireprevention.org/en/2021/03/09/why-do-the-japanese-have-the-highest-life-expectancy-in-the-world/](https://observatoireprevention.org/en/2021/03/09/why-do-the-japanese-have-the-highest-life-expectancy-in-the-world/) (Why Japan diet good)
 
-https://data.worldbank.org/indicator/SP.DYN.IMRT.IN?locations=ZG (Infant mortality rate worldwide)
+[https://data.worldbank.org/indicator/SP.DYN.IMRT.IN?locations=ZG](https://data.worldbank.org/indicator/SP.DYN.IMRT.IN?locations=ZG) (Infant mortality rate worldwide)
 
-https://ourworldindata.org/life-expectancy (Inspiration for plots and data)
+[https://ourworldindata.org/life-expectancy](https://ourworldindata.org/life-expectancy) (Inspiration for plots and data)
 
-https://www.lifetable.de/ (All life-table data has been downloaded from here)
+[https://www.lifetable.de/](https://www.lifetable.de/) (All life-table data has been downloaded from here)
 
-https://www.worldlifeexpectancy.com/cause-of-death/coronary-heart-disease/by-country/ (Cause of death by country)
+[https://www.worldlifeexpectancy.com/cause-of-death/coronary-heart-disease/by-country/](https://www.worldlifeexpectancy.com/cause-of-death/coronary-heart-disease/by-country/) (Cause of death by country)
 
-https://www.cdc.gov/stroke/risk_factors.htm (Risk of stroke times 2 every 10 years after 50)
+[https://www.cdc.gov/stroke/risk_factors.htm](https://www.cdc.gov/stroke/risk_factors.htm) (Risk of stroke times 2 every 10 years after 50)
 
 **All data sources**
 
