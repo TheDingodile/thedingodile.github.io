@@ -77,7 +77,7 @@ Moving forward to 2021 where infant mortality death rate is relatively insignifi
 
 In both cases there is a strong trend. However, we also see that the data resembles that of an logistic function. And even a logistic function doesn't quite encaptulate the countries with the very largest wealth. This indicates that a country can only get so far (given the current technology) by having money and spending money on health care. Here we also highlighted Japan and some other countries which are comparable to Japan in population size and development. Some interesting observations are USA being number one in terms of spending money on healthcare, while remaining relatively low in terms of life expectancy. Meanwhile, some of the top countries in terms of life expectancy, like Japan and Italy, are not in the top in terms of GDP per capita or health care expenditure. Rather, they score average in these two categories compared to similarly developed countries. This indicates that there are other factors at play here.
 
-**The importance of a healthy lifestyle**
+**Exploring the Individual Factors: Investigating the Top Causes of Death in Japan, Germany, and Italy**
 
 As of now, we have only investigated life expectancy from a societal or national stand-point. It is time to dive into individuals and look at things such as lifestyle, diet and culture. In order to figure out what effect these factors have, we will investigate the specific cause of death in different countries. If we know the cause of death, we can relate this to the lifestyle of the people in that country. Here we show the top 10 causes of death in Japan, Germany and Italy.
 
@@ -89,18 +89,16 @@ In general, these top 10 causes of death makes up around 50 percent of all death
 
 **Japan, a case study**
 
-The Japanese has a culture of eating little red meat and high amount of seafood and plantfood such as soybeans and tea. For example, on average the Japanese eat less than half as much meat as Canadians. Instead, they replace the meat with seafood (which is associated with a lower risk of ischemic heart disease, but an increased risk of stroke)[https://observatoireprevention.org/en/2021/03/09/why-do-the-japanese-have-the-highest-life-expectancy-in-the-world/]. In addition, [The risk of stroke doubles every 10 years after 50](https://www.cdc.gov/stroke/risk_factors.htm). Thus, it makes sense that Japan, having a particularly large part of their population in their 50's, are extra prone to strokes.
+The Japanese has a culture of eating little red meat and high amount of seafood and plantfood such as soybeans and tea. For example, on average the Japanese eat less than half as much meat as Canadians. Instead, they replace the meat with seafood [https://observatoireprevention.org/en/2021/03/09/why-do-the-japanese-have-the-highest-life-expectancy-in-the-world/](which is associated with a lower risk of ischemic heart disease, but an increased risk of stroke). In addition, [The risk of stroke doubles every 10 years after 50](https://www.cdc.gov/stroke/risk_factors.htm). Thus, it makes sense that the Japanese population, having a particularly large part of their population be older than 50, is extra prone to strokes.
 
 The following table compares Japan to other countries in terms of diet:
 
 ![diet](/diet.JPG)
 
 
+Som of the risk factors of Ischaemic heart disease are [smoking, high blood pressure, high blood cholesterol, diabetes, overweight and obesity, poor diet, physical inactivity, and excessive alcohol use](https://www.cdc.gov/heartdisease/risk_factors.htm). Japanese has a low rate of obesity, with only around 4.8% for men and 3.7% for women. Canada, for comparison, has 24.6% for men and 26.2% for women, while those numbers are around 40% in USA. However, they have a high rate of high blood pressure. This is likely due to the high salt intake in the Japanese diet. Furthermore, the Japanese are known to be workaholic and prone to stress, and this is also a risk factor for Ischaemic heart disease. So while we can see that Japan has an outstanding life expectancy, it is nowhere near perfect in all categories.
 
-
-
-
-So while Japan has an outstanding life expectancy, it is nowhere near perfect in all categories.
+Thus, a natural question to ask is: what happens if you live your life perfectly according to these risk factors?
 
 **Are we then approaching immortality?**
 
@@ -110,9 +108,15 @@ Oldest man alive is constant. We can maybe keep everyone alive till they are 100
 
 **notes**
 
-https://www.clinicbarcelona.org/en/assistance/diseases/ischemic-heart-disease/risk-factors (factors for the disease)
+Why is it interesting?
+
+What factors contribute to longer life? 
+How has Japan unlocked its potential for longevity? 
+Is there a limit to human lifespan?
 
 **References**
+
+[https://www.clinicbarcelona.org/en/assistance/diseases/ischemic-heart-disease/risk-factors](https://www.clinicbarcelona.org/en/assistance/diseases/ischemic-heart-disease/risk-factors) (more factors for the Ischaemic heart disease)
 
 [https://observatoireprevention.org/en/2021/03/09/why-do-the-japanese-have-the-highest-life-expectancy-in-the-world/](https://observatoireprevention.org/en/2021/03/09/why-do-the-japanese-have-the-highest-life-expectancy-in-the-world/) (Why Japan diet good)
 
