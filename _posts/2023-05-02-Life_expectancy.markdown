@@ -8,13 +8,11 @@ full-width: true
 
 **Introduction**
 
-Japan is currently one of the countries with the highest life expectancy of all time. The country has had an consistent growth to the top in the last 60 years. In this article we explore the global development of life expectancy with focus on Japan. Get ready for an interactive journey going from a worldwide perspective deepdiving into the fascinating story of Japan. How has life expectancy developed globally? What causes people to live longer? How has particularly Japan unlocked this potential? Is there a limit to to human longevity? 
-
-If these questions whet the appetite, this article is for you.
+Japan currently has one of the highest life expectancies in the world, with an average life expectancy of 84 years. The country has experienced a consistent increase in life expectancy over the last 60 years, propelling it to the top of the rankings. In this article we explore the global development of life expectancy with focus on Japan. Get ready for an interactive journey that takes you from a worldwide perspective deep into the fascinating story of Japan. How has life expectancy developed globally? What factors contribute to longer life? How has Japan unlocked its potential for longevity? And is there a limit to human lifespan? If these questions pique your interest, this article is for you. 
 
 **The last 60 years globally**
 
-We start off in a broad scope by showing the global development in the last 60 years. [During this period the world-wide life expectancy has increased from 50 years to 72 years.](https://www.macrotrends.net/countries/WLD/world/life-expectancy) This remarkable development is particularly due to many countries in Asia, Africa and South America catching up with the western world.
+In this chapter, we examine the global development of life expectancy over the last 60 years. [During this period the world-wide life expectancy has increased from 50 years to 72 years.](https://www.macrotrends.net/countries/WLD/world/life-expectancy) This remarkable development is particularly due to many countries in Asia, Africa and South America catching up with the western world.
 
 <iframe src="/world.html"
     sandbox="allow-same-origin allow-scripts"
@@ -25,7 +23,7 @@ We start off in a broad scope by showing the global development in the last 60 y
     frameborder="0">
 </iframe>
 
-We see how drastically Africa improves over the period. Meanwhile, the countries which are leading the pack in 1960, like the Scandinavia, Australia, Japan and Canada are still at the top in 2020. However, the gap between the top and the bottom has been reduced significantly. Worth noticing is also the unparalleled improvement in China, which has gone from a life expectancy of 33 years in 1960 to 78 years in 2020. To better illustrate the sheer magnitude of this development we made the following bar-chart.
+We see how drastically Africa improves over the period. Meanwhile, the countries which are leading the pack in 1960, like the Scandinavia, Australia, Japan and Canada are still at the top in 2020. However, the gap between the top and the bottom has been reduced significantly. This is a positive development for global health equity. Worth noticing is also the unparalleled improvement in China, which has gone from a life expectancy of 33 years in 1960 to 78 years in 2020. To better illustrate the sheer magnitude of this development we made the following bar-chart.
 
 <iframe src="/bokeh.html"
     sandbox="allow-same-origin allow-scripts"
