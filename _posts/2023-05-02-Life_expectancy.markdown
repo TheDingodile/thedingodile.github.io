@@ -79,7 +79,10 @@ In both cases there is a strong trend. However, we also see that the data resemb
 
 **The importance of a healthy lifestyle**
 
-As of now, we have only investigated life expectancy from a societal or national stand-point.
+As of now, we have only investigated life expectancy from a societal or national stand-point. It is time to dive into individuals and look at things such as lifestyle, diet and culture. In order to figure out what effect these factors have, we will investigate the specific cause of death in different countries. If we know the cause of death, we can relate this to the lifestyle of the people in that country.
+
+
+![cause_of_death](/cause_of_death.jpg)
 
 **Japan, a case study**
 
