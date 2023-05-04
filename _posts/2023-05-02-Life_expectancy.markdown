@@ -89,7 +89,7 @@ In general, these top 10 causes of death makes up around 50 percent of all death
 
 **Japan, a case study**
 
-The Japanese has a culture of eating little red meat and high amount of seafood and plantfood such as soybeans and tea. For example, on average the Japanese eat less than half as much meat as Canadians. Instead, they replace the meat with seafood (which is associated with a lower risk of ischemic heart disease, but an increased risk of stroke)[https://observatoireprevention.org/en/2021/03/09/why-do-the-japanese-have-the-highest-life-expectancy-in-the-world/].
+The Japanese has a culture of eating little red meat and high amount of seafood and plantfood such as soybeans and tea. For example, on average the Japanese eat less than half as much meat as Canadians. Instead, they replace the meat with seafood (which is associated with a lower risk of ischemic heart disease, but an increased risk of stroke)[https://observatoireprevention.org/en/2021/03/09/why-do-the-japanese-have-the-highest-life-expectancy-in-the-world/]. In addition, [The risk of stroke doubles every 10 years after 50](https://www.cdc.gov/stroke/risk_factors.htm). Thus, it makes sense that Japan, having a particularly large part of their population in their 50's, are extra prone to strokes.
 
 The following table compares Japan to other countries in terms of diet:
 
@@ -110,27 +110,25 @@ Oldest man alive is constant. We can maybe keep everyone alive till they are 100
 
 **notes**
 
-Stroke vs ischemic heart disease
-
-Good links:
-
-https://observatoireprevention.org/en/2021/03/09/why-do-the-japanese-have-the-highest-life-expectancy-in-the-world/ (Why Japan diet good)
-
-https://www.cdc.gov/stroke/risk_factors.htm (Risk of stroke times 2 every 10 years after 50)
-
 https://www.clinicbarcelona.org/en/assistance/diseases/ischemic-heart-disease/risk-factors (factors for the disease)
 
 **References**
 
-(All data sources should be listen here)
+https://observatoireprevention.org/en/2021/03/09/why-do-the-japanese-have-the-highest-life-expectancy-in-the-world/ (Why Japan diet good)
 
-https://data.worldbank.org/indicator/SP.DYN.IMRT.IN?locations=ZG (Infant mortality rate)
+https://data.worldbank.org/indicator/SP.DYN.IMRT.IN?locations=ZG (Infant mortality rate worldwide)
 
 https://ourworldindata.org/life-expectancy (Inspiration for plots and data)
 
 https://www.lifetable.de/ (All life-table data has been downloaded from here)
 
-https://www.worldlifeexpectancy.com/cause-of-death/coronary-heart-disease/by-country/ (Cause of death)
+https://www.worldlifeexpectancy.com/cause-of-death/coronary-heart-disease/by-country/ (Cause of death by country)
+
+https://www.cdc.gov/stroke/risk_factors.htm (Risk of stroke times 2 every 10 years after 50)
+
+**All data sources**
+
+
 
 
 
