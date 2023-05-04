@@ -36,7 +36,7 @@ We see how drastically Africa improves over the period. Meanwhile, the countries
     frameborder="0">
 </iframe>
 
-It is the developing countries like China and Afghanistan that have seen the biggest improvement in life expectancy. The developed countries like Japan and the Scandinavian countries have also seen an improvement, but not nearly as drastic. This is due to the fact that the developed countries already had a high life expectancy in 1960. The following plot shows the life expectancy of the top 10 countries in 1960 and 2020.
+It is the developing countries like China and Afghanistan that have seen the biggest improvement in life expectancy. The developed countries like Japan and the Scandinavian countries have also seen an improvement, but not nearly as drastic. As one could expect, it becomes harder and harder to push the boundaries of human longevity. The different mortality rates also gives rise to a quite different population structure. In developing countries the population is much younger, while in developed countries the population is much older. This is illustrated in the following plot.
 
 
 <iframe src="/age.html"
@@ -47,7 +47,6 @@ It is the developing countries like China and Afghanistan that have seen the big
     seamless="seamless"
     frameborder="0">
 </iframe>
-
 
 
 As seen in the previous plots it would be considered lucky to live to the age of 30 in some of the undeveloped countries in Africa and even China (Which was during The Great Leap Forward) in 1960. The life expectancy in these countries is [comparable to the life expectancy in Europe in the 1800s](https://www.osfi-bsif.gc.ca/Eng/Docs/DEIP_Gallop.pdf). Similarly to that time in Europe, the low life expectancy is due to [high infant mortality](https://www.statista.com/statistics/1072803/child-mortality-rate-africa-historical/) and a high risk of dying from infectious diseases. Clearly, if you are unfortunate enough to die as a child, you will drag down the average life expectancy by a large margin. In a country where people die at age 80 on average, it would take 4 people to live to the age of 100 just to outweight the death of one child. This next plot demonstrates how reducing infant mortality rate is the first and biggest decider when it comes to increasing life expectancy overall.
