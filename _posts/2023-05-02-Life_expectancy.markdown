@@ -98,6 +98,10 @@ The following table compares Japan to other countries in terms of diet:
 
 Some risk factors of Ischaemic heart disease are [smoking, high blood pressure, high blood cholesterol, diabetes, overweight and obesity, poor diet, physical inactivity, and excessive alcohol use](https://www.cdc.gov/heartdisease/risk_factors.htm). Japanese has a low rate of obesity, with only around 4.8% for men and 3.7% for women. Canada, for comparison, has 24.6% for men and 26.2% for women, while those numbers are around 40% in the USA. However, they have a high rate of high blood pressure. This is likely due to the high salt intake in the Japanese diet. Furthermore, the Japanese are known to be workaholics and prone to stress, which is also a risk factor for Ischaemic heart disease. So while we can see that Japan has a great life expectancy, it is nowhere near perfect in all categories.
 
+![physi](/sui_physical.png)
+
+![fatty](/fatty.png)
+
 Thus, a natural question to ask is: what happens if you live your life perfectly according to these risk factors?
 
 **Are we approaching immortality?**
