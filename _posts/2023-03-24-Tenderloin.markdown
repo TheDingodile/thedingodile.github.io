@@ -19,7 +19,7 @@ We have access to a publicly available dataset from [SF OpenData](https://datasf
 **Tenderloin - the “peak” of the city**
 
 Let us start by giving the reader the opportunity to explore the dataset themselves. In this visualization the reader is able to get an idea of the distribution of all the crimes-types in SF. In particular, it is encouraged to compare Tenderloin's crime-density to any of the surrounding neighborhood districts, such as Southern, Northern and Central.
-<iframe src="/bokeh.html"
+<iframe src="/bokeh_assign2.html"
     sandbox="allow-same-origin allow-scripts"
     width="150%"
     height="800"
