@@ -83,7 +83,7 @@ As of now, we have only investigated life expectancy from a societal or national
 
 ![cause_of_death](/cause_of_death.jpg)
 
-<img src="cause_of_death.jpg" width="500" height="300">
+<img src="/cause_of_death.jpg" width="500" height="300">
 
 
 
