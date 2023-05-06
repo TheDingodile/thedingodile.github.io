@@ -83,6 +83,9 @@ As of now, we have only investigated life expectancy from a societal or national
 
 ![cause_of_death](/cause_of_death.jpg)
 
+<img src="cause_of_death.jpg" width="500" height="300">
+
+
 
 These top 10 causes of death make up around 50 percent of all deaths in the country. [Globally speaking](https://www.who.int/news-room/fact-sheets/detail/the-top-10-causes-of-death), it is more or less the exact causes seen here constitute most deaths. Thus, seeing such a discrepancy in Isochaemic heart disease is quite significant. Some of the categories vary somewhat. Japan, for example, has suicide (self-harm) as one of the country's top 10 causes of death. Indeed, even though Japan has the highest life expectancy, it is still beaten in quite some categories, mainly because strokes are frequent.
 
