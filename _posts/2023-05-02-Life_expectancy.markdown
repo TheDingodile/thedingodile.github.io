@@ -104,6 +104,15 @@ Some risk factors of Ischaemic heart disease are [smoking, high blood pressure, 
 
 Thus, a natural question to ask is: what happens if you live your life perfectly according to these risk factors?
 
+<iframe src="/plotly_time_consume.html"
+    sandbox="allow-same-origin allow-scripts"
+    width="100%"
+    height="400"
+    scrolling="no"
+    seamless="seamless"
+    frameborder="0">
+</iframe>
+
 **Are we approaching immortality?**
 ![oldie](/old_pers.png)
 
