@@ -95,7 +95,7 @@ The following table compares Japan to other countries in terms of diet:
 
 ![diet](/diet.JPG)
 
-<iframe src="/plotly_time_consume_meattt.html"
+<iframe src="/plotly_time_consume_meatt.html"
     sandbox="allow-same-origin allow-scripts"
     width="100%"
     height="400"
