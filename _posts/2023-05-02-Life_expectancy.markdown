@@ -86,7 +86,7 @@ Meanwhile, some of the top countries in terms of life expectancy, like Japan and
 As of now, we have only investigated life expectancy from a societal or national standpoint. It is time to dive into individuals and look at lifestyle, diet and culture. We will explore the specific cause of death in different countries to determine these factors' effects. If we know the cause of death, we can relate this to the lifestyle of the people in that country. Here we show the top 10 causes of death in Japan, Germany, Italy and the United States.
 
 
-![cause_of_death](/2x2.png)
+![cause_of_death](/2x2_new.png)
 *Sources: [WHO](https://www.who.int/data/gho/data/themes/mortality-and-global-health-estimates/ghe-leading-causes-of-death)*
 
 
