@@ -110,7 +110,7 @@ Other risk factors of Ischaemic heart disease are [smoking, high blood pressure,
 
 Comparison between the countries for these factors are illustrated in these charts.
 
-![physi](/factors.png)
+![physi](/factors_new.png)
 *Sources: [WHO](https://apps.who.int/gho/data/node.main)*
 
 
