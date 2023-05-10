@@ -22,7 +22,7 @@ This chapter examines the global development of life expectancy over the last 60
     seamless="seamless"
     frameborder="0">
 </iframe>
-*Data source: [WHO](https://www.kaggle.com/datasets/ulrikthygepedersen/life-expectancy?fbclid=IwAR0JO7W1_G3prS0O48OITDxvSeQPm64MtaUOIbfNjBCzcHttAUh_tC3xJME)*
+*Data source: [Kaggle (WHO)](https://www.kaggle.com/datasets/ulrikthygepedersen/life-expectancy?fbclid=IwAR0JO7W1_G3prS0O48OITDxvSeQPm64MtaUOIbfNjBCzcHttAUh_tC3xJME)*
 
 We see how drastically Africa has improved over the period. Meanwhile, the countries leading the pack in 1960, like the Scandinavian countries, Australia, Japan, and Canada, are still at the top in 2020. However, the gap between the top and the bottom has been reduced significantly. This is a positive development for global health equity. Worth noticing is also the remarkable improvement in China, which has gone from a life expectancy of 33 years in 1960 to 78 years in 2020. We made the following bar chart to better illustrate the sheer magnitude of this development.
 
@@ -34,6 +34,7 @@ We see how drastically Africa has improved over the period. Meanwhile, the count
     seamless="seamless"
     frameborder="0">
 </iframe>
+*Sources: [Kaggle (WHO data)](https://www.kaggle.com/datasets/ulrikthygepedersen/life-expectancy?fbclid=IwAR0JO7W1_G3prS0O48OITDxvSeQPm64MtaUOIbfNjBCzcHttAUh_tC3xJME)*
 
 Developing countries like China and Afghanistan have seen the most considerable improvement in life expectancy. Developed countries like Japan and the Scandinavian countries have also seen an improvement, but less drastic. As one could expect, pushing the boundaries of human longevity becomes harder and harder. The different mortality rates also give rise to quite different population structures. The population is much younger in developing countries, while in developed countries, the population is much older. This is illustrated in the following plot.
 
@@ -46,6 +47,7 @@ Developing countries like China and Afghanistan have seen the most considerable 
     seamless="seamless"
     frameborder="0">
 </iframe>
+*Sources: [PopulationPyramid.net (UN data)](https://www.populationpyramid.net/)*
 
 Countries like Japan and China have had quite a shift in terms of their population pyramid. Going from the structure that characterizes developing countries, with a falling slope for each year, to a more balanced, or even upwards-going distribution. Meanwhile, India is somewhere in-between these two models, and countries like Afghanistan are still in the developing stage. However, a population with most people around retirement age is scary as well, as the working population has to support the retired population. This is a problem that Japan is facing right now and is one of the reasons why Japan is [struggling with its economy.](https://www.imf.org/en/News/Articles/2020/02/10/na021020-japan-demographic-shift-opens-door-to-reforms)
 
@@ -61,6 +63,7 @@ As seen in the previous section, it would be considered lucky to live to the age
     seamless="seamless"
     frameborder="0">
 </iframe>
+*Sources: [Human Mortality Database (HMD)](https://www.lifetable.de/)*
 
 The relatively less developed countries, like India, Brazil and South Africa, deisplay the same trend of a sharp drop in survival rate for the first 5 years of a child's life in 1960. In India, for example, you would have a 20 percent chance of dying before age 5. This trend is similar to what is seen in Denmark around 1900 (Which also is toggleable in the plot). After the first 5 years, the survival rate is flat until around 50, where it starts to drop again. The infant mortality rate is primarily a problem for the poorest countries and is often not the deciding factor of life expectancy between two developed countries. 
 
@@ -73,6 +76,7 @@ Thus, one could expect that the next major factor is improving the lives of thos
 Moving forward to 2021, where the infant mortality death rate is relatively insignificant for developed countries, we aim to find factors that separate the countries with the highest life expectancy from the rest. We examine the correlation between life expectancy, health expenditure and GDP per capita.
 
 ![life_ex_health_ex_gdp](/life_ex_health_ex_gdp.jpg)
+*Sources: [The World Bank](https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?fbclid=IwAR2Jf_Asqt1WWMuQ_S1bobud8Q36WcVEYDx4lF0RrdCprmiESBD0yyNaGDk)*
 
 In both cases, there is a strong trend. However, we also see that the data resembles that of a logistic function, which we have drawn on the plot. And even a logistic function only partially encapsulates the countries with the most extensive wealth. This indicates that a country can only get so far (given the current technology) by having money and spending money on health care. Here we also highlighted Japan and other countries comparable to Japan in population size and development. Some interesting observations are that the USA is number one in spending money on healthcare while remaining relatively low in terms of life expectancy.
 Meanwhile, some of the top countries in terms of life expectancy, like Japan and Italy, are at a lower level regarding GDP per capita or healthcare expenditure. Instead, they score average in these two categories compared to similarly developed countries. This indicates that there are other factors at play here.
@@ -83,7 +87,7 @@ As of now, we have only investigated life expectancy from a societal or national
 
 
 ![cause_of_death](/2x2.png)
-
+*Sources: [WHO](https://www.who.int/data/gho/data/themes/mortality-and-global-health-estimates/ghe-leading-causes-of-death)*
 
 
 These top 10 causes of death make up around 50 percent of all deaths in the country. [Globally speaking](https://www.who.int/news-room/fact-sheets/detail/the-top-10-causes-of-death), it is more or less the exact causes seen here constitute most deaths. Thus, seeing such a discrepancy in Isochaemic heart disease is quite significant. Some of the categories vary somewhat. Japan and USA, for example, has suicide (self-harm) as one of their top 10 causes of death. Indeed, even though Japan has the highest life expectancy, it is still beaten in quite some categories, mainly because strokes are frequent.
@@ -100,13 +104,14 @@ The Japanese have a culture of eating less red meat and more seafood and plant f
     seamless="seamless"
     frameborder="0">
 </iframe>
-
+*Sources: [OurWorldinData (UN FAO data)](https://ourworldindata.org/meat-production)*
 
 Other risk factors of Ischaemic heart disease are [smoking, high blood pressure, high blood cholesterol, diabetes, overweight and obesity, poor diet, physical inactivity, and excessive alcohol use](https://www.cdc.gov/heartdisease/risk_factors.htm). Japanese has a low rate of obesity, with only around 4.8% for men and 3.7% for women. Canada, for comparison, has 24.6% for men and 26.2% for women, while those numbers are just over 35% in the USA. Paradoxically, the Japanese people are not exactly known to be exercising a lot, and the low obesity rate is thus likely to come mostly from healthy eating habits. In addition, they have a high rate of high blood pressure, which is likely due to the high salt intake from Japanese diet. Furthermore, the Japanese are known to be workaholics and prone to stress, which is also a risk factor for Ischaemic heart disease.
 
 Comparison between the countries of these factors are illustrated in these next charts.
 
 ![physi](/factors.png)
+*Sources: [WHO](https://apps.who.int/gho/data/node.main)*
 
 
 <iframe src="/plotly_time_consume_nonf.html"
@@ -117,6 +122,7 @@ Comparison between the countries of these factors are illustrated in these next 
     seamless="seamless"
     frameborder="0">
 </iframe>
+*Sources: [OurWorldinData (OECD Time Use Database data)](https://ourworldindata.org/time-use)*
 
 Despite only exercising 30 percent of the time of Germans, the Japanese has by far the smallest obesity rate. As mentioned, this is a result of the diet, but it could also be related to the activity that comes from their work, which they spend significantly more time on than the other countries. However, this compromises the amount of time available for sleeping, and Japanese sleep much less than what is common in the west. Lack of sleep is a well-researched and well-known [risk factor for a wide range of mental and physical diseases](https://www.sciencedirect.com/science/article/pii/S1389945708700145). Whether sleeping only 7 hours and 22 minutes on average is enough is up for debate. Overall, it is clear that the Japanese are not particularly healthy in all categories. Each difference comes with it's upsides and downsides, so while we can see that Japan has a great life expectancy, it is nowhere near perfect. 
 
