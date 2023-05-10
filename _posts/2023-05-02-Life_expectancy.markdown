@@ -140,6 +140,7 @@ One way to approach this question is to look at the roof of life expectancy. It'
 In this plot, we show the oldest confirmed human alive through time, and compare it to the life expectancy in Japan as well as the life expectancy of the top 10 percent in terms of longevity of the population in Japan.
 
 ![oldie](/oldest_man.png)
+*Sources: [Wikipedia (Gerontology Research Group)](https://en.wikipedia.org/wiki/Oldest_people) & [Human Mortality Database (HMD)](https://www.lifetable.de/)*
 
 While the life expectancy is still on the rise in Japan, that is not the case for the life expectancy of the 10 percent fractile. Around the year 2000 this population group hit a life expectancy of 100 years, and it's been stale ever since. Indeed, looking at the age of the oldest man the same picture is drawed. It seems likely that a perfect society with todays technology would be able to keep almost everyone alive till they are 100, however after that it's in the hands of genetics and fate. In fact, this is the same story that was told by the "chance of surviving to this age" fraction plot. We can imagine the line in this plot will be almost flat for the first years, and then it's going to be a sharp drop.
 
