@@ -136,7 +136,7 @@ Overall, it is clear that the Japanese are not particularly healthy in all categ
 Thus, a natural question to ask is: is there a way you can live perfectly balanced between these risk factors? And if so, how long can you expect to live?
 
 **Are we approaching immortality?**
-![oldie](/old_pers.png)
+![oldie](/oldest_man.png)
 
 Other factors are social, and meaningful lifes
 
