@@ -131,16 +131,19 @@ Additionally, research has shown that having a [fulfilling social life](https://
 Overall, it is clear that the Japanese are not particularly healthy in all categories. Each difference comes with it's upsides and downsides, so while we can see that Japan has a great life expectancy, it is nowhere near perfect. 
 
 
-
-
 Thus, a natural question to ask is: is there a way you can live perfectly balanced between these risk factors? And if so, how long can you expect to live?
 
 **Are we approaching immortality?**
+
+One way to approach this question is to look at the roof of life expectancy. It's logical to assume there is some variance between how individuals live their lives, thus looking at the maximum age we should find some people who live a perfectly or nearly perfectly balanced life.
+
+In this plot, we show the oldest confirmed human alive through time, and compare it to the life expectancy in Japan as well as the life expectancy of the top 10 percent in terms of longevity of the population in Japan.
+
 ![oldie](/oldest_man.png)
 
-Other factors are social, and meaningful lifes
+While the life expectancy is still on the rise in Japan, that is not the case for the life expectancy of the 10 percent fractile. Around the year 2000 this population group hit a life expectancy of 100 years, and it's been stale ever since. Indeed, looking at the age of the oldest man the same picture is drawed. It seems likely that a perfect society with todays technology would be able to keep almost everyone alive till they are 100, however after that it's in the hands of genetics and fate. In fact, this is the same story that was told by the "chance of surviving to this age" fraction plot. We can imagine the line in this plot will be almost flat for the first years, and then it's going to be a sharp drop.
 
-Oldest man alive is constant. We can maybe keep everyone alive till they are 100 and then the drop will be sharp, as we see in the fraction plot.
+We are not immortal, and we are not approaching immortality. By nature, human beings are not supposed to live forever. We are optimized to live long enough to reproduce and raise our children, and then we are supposed to pass on the gift of life to other humans. However, we are approaching a society where almost everyone can live to be 100 years old, and that is a great achievement.
 
 
 **conclusion**
