@@ -61,7 +61,7 @@ As seen in the previous section, it would be considered lucky to live to the age
     frameborder="0">
 </iframe>
 
-The relatively less developed countries, like India, Brazil and South Africa, displayed the same trend of a sharp drop in survival rate for the first 5 years of a child's life in 1960. In India, for example, you would have a 20 percent chance of dying before age 5. This trend is similar to what is seen in Denmark around 1900 (Which also is toggleable in the plot). After the first 5 years, the survival rate is flat until around 50, when it starts to drop again. The infant mortality rate is primarily a problem for the poorest countries and is often not the deciding factor of life expectancy between two developed countries. 
+The relatively less developed countries, like India, Brazil and South Africa, deisplay the same trend of a sharp drop in survival rate for the first 5 years of a child's life in 1960. In India, for example, you would have a 20 percent chance of dying before age 5. This trend is similar to what is seen in Denmark around 1900 (Which also is toggleable in the plot). After the first 5 years, the survival rate is flat until around 50, where it starts to drop again. The infant mortality rate is primarily a problem for the poorest countries and is often not the deciding factor of life expectancy between two developed countries. 
 
 
 
@@ -91,32 +91,28 @@ These top 10 causes of death make up around 50 percent of all deaths in the coun
 
 The Japanese have a culture of eating less red meat and more seafood and plant foods such as soybeans and tea. For example, on average, the Japanese eat less than half as much meat as Canadians. Instead, they replace the meat with seafood [which is associated with a lower risk of ischemic heart disease but an increased risk of stroke](https://observatoireprevention.org/en/2021/03/09/why-do-the-japanese-have-the-highest-life-expectancy-in-the-world/). In addition, [The risk of stroke doubles every 10 years after 50](https://www.cdc.gov/stroke/risk_factors.htm). Thus, it makes sense that the Japanese population, having a particularly large part of their population older than 50, is extra prone to strokes.
 
-The following table compares Japan to other countries in terms of diet:
-
-![diet](/diet.JPG)
-
 <iframe src="/plotly_time_consume_meattttt.html"
     sandbox="allow-same-origin allow-scripts"
     width="100%"
-    height="400"
+    height="350"
     scrolling="no"
     seamless="seamless"
     frameborder="0">
 </iframe>
 
 
-Some risk factors of Ischaemic heart disease are [smoking, high blood pressure, high blood cholesterol, diabetes, overweight and obesity, poor diet, physical inactivity, and excessive alcohol use](https://www.cdc.gov/heartdisease/risk_factors.htm). Japanese has a low rate of obesity, with only around 4.8% for men and 3.7% for women. Canada, for comparison, has 24.6% for men and 26.2% for women, while those numbers are around 40% in the USA. However, they have a high rate of high blood pressure. This is likely due to the high salt intake in the Japanese diet. Furthermore, the Japanese are known to be workaholics and prone to stress, which is also a risk factor for Ischaemic heart disease. So while we can see that Japan has a great life expectancy, it is nowhere near perfect in all categories.
+Some risk factors of Ischaemic heart disease are [smoking, high blood pressure, high blood cholesterol, diabetes, overweight and obesity, poor diet, physical inactivity, and excessive alcohol use](https://www.cdc.gov/heartdisease/risk_factors.htm). Japanese has a low rate of obesity, with only around 4.8% for men and 3.7% for women. Canada, for comparison, has 24.6% for men and 26.2% for women, while those numbers are around 40% in the USA. However, they have a high rate of high blood pressure. This is likely due to the high salt intake in the Japanese diet. Furthermore, the Japanese are known to be workaholics and prone to stress, which is also a risk factor for Ischaemic heart disease. So while we can see that Japan has a great life expectancy, it is nowhere near perfect in all categories. 
+
+Some relevant factors highlighting similarities and differences between other countries and Japan are illustrated in these next charts.
 
 ![physi](/sui_physical.png)
 
 ![fatty](/fatty.png)
 
-Thus, a natural question to ask is: what happens if you live your life perfectly according to these risk factors?
-
 <iframe src="/plotly_time_consume.html"
     sandbox="allow-same-origin allow-scripts"
     width="100%"
-    height="400"
+    height="350"
     scrolling="no"
     seamless="seamless"
     frameborder="0">
@@ -124,6 +120,8 @@ Thus, a natural question to ask is: what happens if you live your life perfectly
 
 **Are we approaching immortality?**
 ![oldie](/old_pers.png)
+
+Thus, a natural question to ask is: what happens if you live your life perfectly according to these risk factors?
 
 vegans? What is the research?
 
@@ -138,6 +136,14 @@ What factors contribute to longer life?
 How has Japan unlocked its potential for longevity? 
 Is there a limit to human lifespan?
 Why is it interesting?
+
+
+**TO DO**
+Gør plots immutable og tilføj kg per year til x-aksen
+
+Top 10 causes of death tilføj USA
+
+Tilføj top10 percent til oldest alive plottet og condition på Japan
 
 
 **References**
@@ -162,7 +168,7 @@ Why is it interesting?
 
 [https://www.kaggle.com/datasets/ulrikthygepedersen/life-expectancy?fbclid=IwAR0JO7W1_G3prS0O48OITDxvSeQPm64MtaUOIbfNjBCzcHttAUh_tC3xJME](https://www.kaggle.com/datasets/ulrikthygepedersen/life-expectancy?fbclid=IwAR0JO7W1_G3prS0O48OITDxvSeQPm64MtaUOIbfNjBCzcHttAUh_tC3xJME) (Life expectancy data for years 1960 to 2019 for many countries, data is from WHO)
 
-[https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?fbclid=IwAR2Jf_Asqt1WWMuQ_S1bobud8Q36WcVEYDx4lF0RrdCprmiESBD0yyNaGDk](https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?fbclid=IwAR2Jf_Asqt1WWMuQ_S1bobud8Q36WcVEYDx4lF0RrdCprmiESBD0yyNaGDk) (For GDP per capita and health expenditure per capita, data os from World Bank)
+[https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?fbclid=IwAR2Jf_Asqt1WWMuQ_S1bobud8Q36WcVEYDx4lF0RrdCprmiESBD0yyNaGDk](https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?fbclid=IwAR2Jf_Asqt1WWMuQ_S1bobud8Q36WcVEYDx4lF0RrdCprmiESBD0yyNaGDk) (For GDP per capita and health expenditure per capita, data is from World Bank)
 
 [https://www.populationpyramid.net](https://www.populationpyramid.net) (Population pyramid for all countries)
 
