@@ -10,7 +10,7 @@ full-width: true
 
 Japan currently has one of the highest life expectancies in the world, with an average life expectancy of 84 years. The country has experienced a consistent increase in life expectancy over the last 60 years, propelling it to the top of the rankings. In this article, we explore the global development of life expectancy, focusing on Japan. Get ready for an interactive journey that takes you from a worldwide perspective deep into the fascinating story of Japan. How has life expectancy developed globally? What factors contribute to a longer life? How has Japan unlocked its potential for longevity? And is there a limit to the human lifespan? If these questions pique your interest, this article is for you. 
 
-**The last 60 years globally**
+**The Last 60 Years Globally**
 
 This chapter examines the global development of life expectancy over the last 60 years. [During this period, the worldwide life expectancy has increased from 50 to 72 years.](https://www.macrotrends.net/countries/WLD/world/life-expectancy) This remarkable development is particularly due to many countries in Asia, Africa, and South America catching up with the Western world.
 
@@ -51,7 +51,7 @@ Developing countries like China and Afghanistan have seen the most considerable 
 
 Countries like Japan and China have had quite a shift in terms of their population pyramid. Going from the structure that characterizes developing countries, with a falling slope for each year, to a more balanced, or even upwards-going distribution. Meanwhile, India is somewhere in-between these two models, and countries like Afghanistan are still in the developing stage. However, a population with most people around retirement age is scary as well, as the working population has to support the retired population. This is a problem that Japan is facing right now and is one of the reasons why Japan is [struggling with its economy.](https://www.imf.org/en/News/Articles/2020/02/10/na021020-japan-demographic-shift-opens-door-to-reforms)
 
-**Infant mortality: the key to improving life expectancy in undeveloped countries**
+**Infant Mortality: The Key to Improving Life Expectancy in Undeveloped Countries**
 
 As seen in the previous section, it would be considered lucky to live to the age of 30 during 1960 in some of the undeveloped countries in Africa and even China (Which was during The Great Leap Forward). The life expectancy in these countries is [comparable to the life expectancy in Europe in the 1800s](https://www.osfi-bsif.gc.ca/Eng/Docs/DEIP_Gallop.pdf). Similarly to that time in Europe, the low life expectancy is due to [high infant mortality](https://www.statista.com/statistics/1072803/child-mortality-rate-africa-historical/) and an increased risk of dying from infectious diseases. Clearly, if you are unfortunate enough to die as a child, you will drag down the average life expectancy by a large margin. In a country where people die at age 80 on average, it would take 4 people to live to the age of 100 just to outweigh the death of one child. The following plot demonstrates how reducing the infant mortality rate is the first and biggest decider for increasing life expectancy overall.
 
@@ -71,7 +71,7 @@ The relatively less developed countries, like India, Brazil and South Africa, di
 
 Thus, one could expect that the next major factor is improving the lives of those over 50 by investing in and advancing the medical field and building a society where everyone can access these tools. A natural question to ask is then: Does the life expectancy of a country correlate with the wealth and health expenditure of the country? In the next section, we explore this question.
 
-**With wealth comes health?**
+**With Wealth Comes Health?**
 
 Moving forward to 2021, where the infant mortality death rate is relatively insignificant for developed countries, we aim to find factors that separate the countries with the highest life expectancy from the rest. We examine the correlation between life expectancy, health expenditure and GDP per capita.
 
@@ -92,7 +92,7 @@ As of now, we have only investigated life expectancy from a societal or national
 
 These top 10 causes of death make up around 50 percent of all deaths in the country. [Globally speaking](https://www.who.int/news-room/fact-sheets/detail/the-top-10-causes-of-death), it is more or less the exact causes seen here that constitute most deaths. Thus, seeing such a discrepancy in Isochaemic heart disease is quite significant. Some of the categories vary somewhat. Japan and USA, for example, has suicide (self-harm) as one of their top 10 causes of death. Indeed, even though Japan has the highest life expectancy, it is still beaten in quite some categories, mainly because strokes are frequent.
 
-**Japan, a case study**
+**Japan: A Case Study in Life Expectancy**
 
 The Japanese have a culture of eating less red meat and more seafood and [plant foods](https://www.researchgate.net/publication/230029532_Comparative_study_of_vegetable_intake_in_Japan_and_the_United_Kingdom) such as soybeans and [tea](https://www.statista.com/statistics/507950/global-per-capita-tea-consumption-by-country/). This is also known as the [Washoku](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5852749/) diet and is known to have multiple health benefits. For example, on average, the Japanese eat less than half as much meat as Canadians. Instead, they replace the meat with seafood [which is associated with a lower risk of ischemic heart disease but an increased risk of stroke](https://observatoireprevention.org/en/2021/03/09/why-do-the-japanese-have-the-highest-life-expectancy-in-the-world/). In addition, [The risk of stroke doubles every 10 years after 50](https://www.cdc.gov/stroke/risk_factors.htm). Thus, it makes sense that the Japanese population, having a particularly large part of their population older than 50, is extra prone to strokes.
 
@@ -132,7 +132,7 @@ In summary, while Japan enjoys a remarkable life expectancy, it is essential to 
 
 Thus, a natural question to ask is: is it possible to live a perfectly balanced life concerning these risk factors? And if so, how long can you expect to live?
 
-**Are we approaching immortality?**
+**Are We Approaching Immortality?**
 
 One way to approach this question is to look at the roof of life expectancy. It's logical to assume there is some variance between how individuals live their lives, thus looking at the maximum age we should find some people who live a perfectly or nearly perfectly balanced life.
 
