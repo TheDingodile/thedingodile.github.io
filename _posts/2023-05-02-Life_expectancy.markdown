@@ -65,7 +65,7 @@ As seen in the previous section, it would be considered lucky to live to the age
 </iframe>
 *Sources: [Human Mortality Database (HMD)](https://www.lifetable.de/)*
 
-The relatively less developed countries, like India, Brazil and South Africa, display the same trend of a sharp drop in survival rate for the first 5 years of a child's life in 1960. In India, for example, you would have a 20 percent chance of dying before age 5. This trend is similar to what is seen in Denmark around 1900 (Which also is toggleable in the plot). After the first 5 years, the survival rate is flat until around 50, where it starts to drop again. The infant mortality rate is primarily a problem for the poorest countries and is often not the deciding factor of life expectancy between two developed countries. 
+The relatively less developed countries, like India, Brazil and South Africa, display the same trend of a sharp drop in survival rate for the first 5 years of a child's life in 1960. In India, for example, you would have a 20 percent chance of dying before age 5. This trend is similar to what is seen in Denmark around 1900 (Which also is toggleable in the plot). After the first 5 years, the survival rate is more flat until around age 50, where it starts to drop again. The infant mortality rate is primarily a problem for the poorest countries and is often not the deciding factor of life expectancy between two developed countries. 
 
 
 
@@ -108,7 +108,7 @@ The Japanese have a culture of eating less red meat and more seafood and [plant 
 
 Other risk factors of Ischaemic heart disease are [smoking, high blood pressure, high blood cholesterol, diabetes, overweight and obesity, poor diet, physical inactivity, and excessive alcohol use](https://www.cdc.gov/heartdisease/risk_factors.htm). Japanese has a low rate of obesity, with only around 4.8% for men and 3.7% for women. Canada, for comparison, has 24.6% for men and 26.2% for women, while those numbers are just over 35% in the USA. Paradoxically, the Japanese people are not exactly known to be exercising a lot, and the low obesity rate is thus likely to come mostly from healthy eating habits. In addition, they have a high rate of high blood pressure, which is likely due to the high [salt intake](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8727723/) from Japanese diet. Furthermore, the Japanese are known to be workaholics and prone to stress, which is also a risk factor for Ischaemic heart disease.
 
-Comparison between the countries of these factors are illustrated in these next charts.
+Comparison between the countries for these factors are illustrated in these charts.
 
 ![physi](/factors.png)
 *Sources: [WHO](https://apps.who.int/gho/data/node.main)*
@@ -141,7 +141,7 @@ In the following plot, we showcase the documented oldest living human beings thr
 ![oldie](/oldest_man.png)
 *Sources: [Wikipedia (Gerontology Research Group)](https://en.wikipedia.org/wiki/Oldest_people) & [Human Mortality Database (HMD)](https://www.lifetable.de/)*
 
-While the overall life expectancy in Japan continues to rise, a different trend emerges when observing the life expectancy of the top 10 percent of the population. Around the year 2000, this select group reached a life expectancy of 100 years, which has remained relatively stagnant ever since. Indeed, a similar pattern is observed when analyzing the age of the oldest living man It appears that with today's technological advancements, a near-perfect society could potentially ensure that nearly everyone lives to the age of 100. However beyond that threshhold it is in the hands of genetics and fate. This aligns with the insights provided by the "chance of surviving to this age" fraction plot, where we can anticipate a relatively flat line initially, followed by a sharp decline.
+While the overall life expectancy in Japan continues to rise, a different trend emerges when observing the life expectancy of the top 10 percent of the population. Around the year 2000, this select group reached a life expectancy of 100 years, which has remained relatively stagnant ever since. Indeed, a similar pattern is observed when analyzing the age of the oldest living human. It appears that with today's technological advancements, a near-perfect society could potentially ensure that nearly everyone lives to the age of 100. However beyond that threshhold it is in the hands of genetics and fate. This aligns with the insights provided by the "chance of surviving to this age" fraction plot, where we can anticipate a relatively flat line initially, followed by a sharp decline.
 
 We are not immortal, and we are not approaching immortality. Our biological makeup is designed to facilitate reproduction, raise our children, and ultimately pass on the gift of life to future generations. However, we are approaching a society where almost everyone can live to be 100 years old, and that is a great achievement.
 
