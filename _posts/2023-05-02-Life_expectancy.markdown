@@ -117,14 +117,12 @@ Comparison between the countries of these factors are illustrated in these next 
     frameborder="0">
 </iframe>
 
-So while we can see that Japan has a great life expectancy, it is nowhere near perfect in all categories. 
-
-**Are we approaching immortality?**
-![oldie](/old_pers.png)
+Despite only exercising 30 percent of the time of Germans, the Japaneses has by far the smallest obesity rate. This could be related to the activity that comes from their work, which they spend significantly more time on than the other countries. However, this also comes of a compromise of sleeping much less than what is usually done in the west. Lack of sleep is a well-researched and well-known [risk factor for a wide range of mental and physical diseases](https://www.sciencedirect.com/science/article/pii/S1389945708700145). Whether sleeping only 7 hours and 22 minutes on average is enough is up for debate. However, it is clear that the Japanese are not particularly healthy in all categories. So while we can see that Japan has a great life expectancy, it is nowhere near perfect in all categories. The story that is being told here is that Japan has unlocked its potential for longevity by having a healthy diet and lifestyle. However, they are not perfect, and there is still room for improvement.
 
 Thus, a natural question to ask is: what happens if you live your life perfectly according to these risk factors?
 
-vegans? What is the research?
+**Are we approaching immortality?**
+![oldie](/old_pers.png)
 
 Oldest man alive is constant. We can maybe keep everyone alive till they are 100 and then the drop will be sharp, as we see in the fraction plot.
 
