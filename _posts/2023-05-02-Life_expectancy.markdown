@@ -91,7 +91,7 @@ These top 10 causes of death make up around 50 percent of all deaths in the coun
 
 The Japanese have a culture of eating less red meat and more seafood and plant foods such as soybeans and tea. For example, on average, the Japanese eat less than half as much meat as Canadians. Instead, they replace the meat with seafood [which is associated with a lower risk of ischemic heart disease but an increased risk of stroke](https://observatoireprevention.org/en/2021/03/09/why-do-the-japanese-have-the-highest-life-expectancy-in-the-world/). In addition, [The risk of stroke doubles every 10 years after 50](https://www.cdc.gov/stroke/risk_factors.htm). Thus, it makes sense that the Japanese population, having a particularly large part of their population older than 50, is extra prone to strokes.
 
-<iframe src="/plotly_time_consume_meattttt.html"
+<iframe src="/plotly_time_consume_meatttttt.html"
     sandbox="allow-same-origin allow-scripts"
     width="100%"
     height="350"
@@ -108,7 +108,7 @@ Comparison between the countries of these factors are illustrated in these next 
 ![physi](/factors.png)
 
 
-<iframe src="/plotly_time_consume.html"
+<iframe src="/plotly_time_consume_non.html"
     sandbox="allow-same-origin allow-scripts"
     width="100%"
     height="350"
