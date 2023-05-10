@@ -94,7 +94,7 @@ The Japanese have a culture of eating less red meat and more seafood and plant f
 <iframe src="/plotly_time_consume_meattttt.html"
     sandbox="allow-same-origin allow-scripts"
     width="100%"
-    height="400"
+    height="350"
     scrolling="no"
     seamless="seamless"
     frameborder="0">
@@ -112,7 +112,7 @@ Some relevant factors highlighting similarities and differences between other co
 <iframe src="/plotly_time_consume.html"
     sandbox="allow-same-origin allow-scripts"
     width="100%"
-    height="400"
+    height="350"
     scrolling="no"
     seamless="seamless"
     frameborder="0">
@@ -139,9 +139,11 @@ Why is it interesting?
 
 
 **TO DO**
-Gør plots immutable
+Gør plots immutable og tilføj kg per year til x-aksen
 
 Top 10 causes of death tilføj USA
+
+Tilføj top10 percent til oldest alive plottet og condition på Japan
 
 
 **References**
@@ -166,7 +168,7 @@ Top 10 causes of death tilføj USA
 
 [https://www.kaggle.com/datasets/ulrikthygepedersen/life-expectancy?fbclid=IwAR0JO7W1_G3prS0O48OITDxvSeQPm64MtaUOIbfNjBCzcHttAUh_tC3xJME](https://www.kaggle.com/datasets/ulrikthygepedersen/life-expectancy?fbclid=IwAR0JO7W1_G3prS0O48OITDxvSeQPm64MtaUOIbfNjBCzcHttAUh_tC3xJME) (Life expectancy data for years 1960 to 2019 for many countries, data is from WHO)
 
-[https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?fbclid=IwAR2Jf_Asqt1WWMuQ_S1bobud8Q36WcVEYDx4lF0RrdCprmiESBD0yyNaGDk](https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?fbclid=IwAR2Jf_Asqt1WWMuQ_S1bobud8Q36WcVEYDx4lF0RrdCprmiESBD0yyNaGDk) (For GDP per capita and health expenditure per capita, data os from World Bank)
+[https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?fbclid=IwAR2Jf_Asqt1WWMuQ_S1bobud8Q36WcVEYDx4lF0RrdCprmiESBD0yyNaGDk](https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?fbclid=IwAR2Jf_Asqt1WWMuQ_S1bobud8Q36WcVEYDx4lF0RrdCprmiESBD0yyNaGDk) (For GDP per capita and health expenditure per capita, data is from World Bank)
 
 [https://www.populationpyramid.net](https://www.populationpyramid.net) (Population pyramid for all countries)
 
