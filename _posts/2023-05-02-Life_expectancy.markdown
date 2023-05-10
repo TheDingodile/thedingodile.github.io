@@ -141,27 +141,17 @@ In this plot, we show the oldest confirmed human alive through time, and compare
 
 ![oldie](/oldest_man.png)
 
-While the life expectancy is still on the rise in Japan, that is not the case for the life expectancy of the 10 percent fractile. Around the year 2000 this population group hit a life expectancy of 100 years, and it's been stale ever since. Indeed, looking at the age of the oldest man the same picture is drawed. It seems likely that a perfect society with todays technology would be able to keep almost everyone alive till they are 100, however after that it's in the hands of genetics and fate. In fact, this is the same story that was told by the "chance of surviving to this age" fraction plot. We can imagine the line in this plot will be almost flat for the first years, and then it's going to be a sharp drop.
+While the life expectancy is still on the rise in Japan, that is not the case for the life expectancy of the 10 percent fractile. Around the year 2000 this population group hit a life expectancy of 100 years, and it's been stale ever since. Indeed, looking at the age of the oldest man the same picture is seen. It seems likely that a perfect society with todays technology would be able to keep almost everyone alive till they are 100, however after that it's in the hands of genetics and fate. In fact, this is the same story that was told by the "chance of surviving to this age" fraction plot. We can imagine the line in this plot will be almost flat for the first years, and then it's going to be a sharp drop.
 
 We are not immortal, and we are not approaching immortality. By nature, human beings are not supposed to live forever. We are optimized to live long enough to reproduce and raise our children, and then we are supposed to pass on the gift of life to other humans. However, we are approaching a society where almost everyone can live to be 100 years old, and that is a great achievement.
 
-
 **conclusion**
-Should answer:
 
-How has life expectancy developed globally?
-What factors contribute to longer life? 
-How has Japan unlocked its potential for longevity? 
-Is there a limit to human lifespan?
-Why is it interesting?
+In this article we saw how life expectancy has increased globally by 22 years since 1960. This has been mainly due to undeveloped countries in Africa and Asia catching up to the rest of the world by reducing particularly child mortality. However, the developed countries have also seen an increase in life expectancy, and Japan has has a steady and steep increase in life expectancy since 1960, and is now the country with the highest life expectancy in the world. We saw that GDP and health expenditure are good predictors for life expectancy, but only up to a certain point where other factors like diet, culture and lifestyle starts to matter more.
 
-The story that is being told here is that Japan has unlocked its potential for longevity by having a healthy diet and lifestyle. However, they are not perfect, and there is still room for improvement.
+Then, we saw how Japan has few cases of deaths by Ischaemic heart disease. This has been particularly due to their diet, which consists of less red meat and more seafood than what is usually seen in the west. In addition, we saw that, despite not exercising that much, few Japanese people are obese, as they eat fewer calories and less meat, and keep themselves active by working. Many of these factors which works in favor of the life expectancy of Japan, also has downsides. For example, eating more seafood is associated with an increased risk of strokes, and working too much can cause stress and lack of sleep.
 
-
-**TO DO**
-Tilføj top10 percent til oldest alive plottet og condition på Japan
-Tilføj referencer (survey data) (Oldest man alive)
-
+So while Japan has the highest life expectancy in the world, it is far from perfect. Given the current state of techonology, it seems unlikely that humans will be able to consistently live past 100 years old. However, the fraction that will get to experience such a long life keeps increasing. Maybe eventually we will be able to live forever, but for now we can only dream.
 
 **References**
 
