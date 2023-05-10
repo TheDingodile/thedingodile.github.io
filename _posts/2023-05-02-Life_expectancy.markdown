@@ -144,6 +144,7 @@ The story that is being told here is that Japan has unlocked its potential for l
 
 **TO DO**
 Tilføj top10 percent til oldest alive plottet og condition på Japan
+Tilføj referencer (survey data) (Oldest man alive)
 
 
 **References**
