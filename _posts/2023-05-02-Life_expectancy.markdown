@@ -101,13 +101,12 @@ The Japanese have a culture of eating less red meat and more seafood and plant f
 </iframe>
 
 
-Some risk factors of Ischaemic heart disease are [smoking, high blood pressure, high blood cholesterol, diabetes, overweight and obesity, poor diet, physical inactivity, and excessive alcohol use](https://www.cdc.gov/heartdisease/risk_factors.htm). Japanese has a low rate of obesity, with only around 4.8% for men and 3.7% for women. Canada, for comparison, has 24.6% for men and 26.2% for women, while those numbers are around 40% in the USA. However, they have a high rate of high blood pressure. This is likely due to the high salt intake in the Japanese diet. Furthermore, the Japanese are known to be workaholics and prone to stress, which is also a risk factor for Ischaemic heart disease. So while we can see that Japan has a great life expectancy, it is nowhere near perfect in all categories. 
+Other risk factors of Ischaemic heart disease are [smoking, high blood pressure, high blood cholesterol, diabetes, overweight and obesity, poor diet, physical inactivity, and excessive alcohol use](https://www.cdc.gov/heartdisease/risk_factors.htm). Japanese has a low rate of obesity, with only around 4.8% for men and 3.7% for women. Canada, for comparison, has 24.6% for men and 26.2% for women, while those numbers are around 40% in the USA. Paradoxically, the Japanese people are not exactly known to be exercising a lot, and the low obesity rate is thus likely to come mostly from healthy eating habits. In addition, they have a high rate of high blood pressure, which is likely due to the high salt intake from Japanese diet. Furthermore, the Japanese are known to be workaholics and prone to stress, which is also a risk factor for Ischaemic heart disease.
 
-Some relevant factors highlighting similarities and differences between other countries and Japan are illustrated in these next charts.
+Comparison between the countries of these factors are illustrated in these next charts.
 
-![physi](/sui_physical.png)
+![physi](/factors.png)
 
-![fatty](/fatty.png)
 
 <iframe src="/plotly_time_consume.html"
     sandbox="allow-same-origin allow-scripts"
@@ -117,6 +116,8 @@ Some relevant factors highlighting similarities and differences between other co
     seamless="seamless"
     frameborder="0">
 </iframe>
+
+So while we can see that Japan has a great life expectancy, it is nowhere near perfect in all categories. 
 
 **Are we approaching immortality?**
 ![oldie](/old_pers.png)
@@ -150,7 +151,7 @@ Tilføj top10 percent til oldest alive plottet og condition på Japan
 
 [https://www.clinicbarcelona.org/en/assistance/diseases/ischemic-heart-disease/risk-factors](https://www.clinicbarcelona.org/en/assistance/diseases/ischemic-heart-disease/risk-factors) (more factors for the Ischaemic heart disease)
 
-[https://observatoireprevention.org/en/2021/03/09/why-do-the-japanese-have-the-highest-life-expectancy-in-the-world/](https://observatoireprevention.org/en/2021/03/09/why-do-the-japanese-have-the-highest-life-expectancy-in-the-world/) (Why Japan diet good)
+[https://observatoireprevention.org/en/2021/03/09/why-do-the-japanese-have-the-highest-life-expectancy-in-the-world/](https://observatoireprevention.org/en/2021/03/09/why-do-the-japanese-have-the-highest-life-expectancy-in-the-world/) (Why Japan diet good, comparison between Canada and USA)
 
 [https://data.worldbank.org/indicator/SP.DYN.IMRT.IN?locations=ZG](https://data.worldbank.org/indicator/SP.DYN.IMRT.IN?locations=ZG) (Infant mortality rate worldwide)
 
