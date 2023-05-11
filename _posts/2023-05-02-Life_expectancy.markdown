@@ -155,6 +155,9 @@ Specifically focusing on Japan, we discovered that the nation experiences low in
 
 So while Japan has the highest life expectancy in the world, it is far from perfect. Considering the current state of technology, consistent human longevity beyond 100 years appears unlikely. Nevertheless, the fraction that will get to experience such a long life keeps increasing. Perhaps, in the future, advancements in science and medicine will bring us closer to the concept of immortality. However, it is worth contemplating that while the pursuit of longevity captivates our imagination, cherishing the finite time we have on this Earth remains equally vital.
 
+**Code**
+All the code used to produce the plots in this article is can be found [here](https://github.com/TheDingodile/social_data_project/blob/master/notebook_main.ipynb). All the data files are in the repository; so if you wish to run the code, be sure to clone the repo first.
+
 **References**
 
 [https://www.clinicbarcelona.org/en/assistance/diseases/ischemic-heart-disease/risk-factors](https://www.clinicbarcelona.org/en/assistance/diseases/ischemic-heart-disease/risk-factors) (more factors for the Ischaemic heart disease)
