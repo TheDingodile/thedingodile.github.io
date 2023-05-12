@@ -157,7 +157,7 @@ So while Japan has the highest life expectancy in the world, it is far from perf
 
 **Code**
 
-All the code used to produce the plots in this article is can be found [here](https://github.com/TheDingodile/social_data_project/blob/master/notebook_main.ipynb). All the data files are in the repository; so if you wish to run the code, be sure to clone the repo first.
+All the code used to produce the plots in this article is can be found [here](https://github.com/TheDingodile/social_data_project/blob/master/notebook_main.ipynb). All the data files are in the repository; so if you wish to run the code, be sure to clone the repo first. For easier readability, you can also see the explainer notebook hosted on [NBViewer](https://nbviewer.org/github/TheDingodile/social_data_project/blob/master/notebook_main.ipynb).
 
 **References**
 
