@@ -165,9 +165,9 @@ In this section we go through each dataset used one by one and provide descripti
 
 1. [The WHO data on life expectancy for countries over time](https://www.kaggle.com/datasets/ulrikthygepedersen/life-expectancy?fbclid=IwAR0JO7W1_G3prS0O48OITDxvSeQPm64MtaUOIbfNjBCzcHttAUh_tC3xJME)
 
-This dataset is clean from the beginning and consists of 4 columns. The first column is a short-hand code for the country's name; the second column is the country's name, the third column is the year, and the fourth column is the life expectancy.
+    This dataset is clean from the beginning and consists of 4 columns. The first column is a short-hand code for the country's name; the second column is the country's name, the third column is the year, and the fourth column is the life expectancy.
 
-The data has no missing values and is easy to use. We use this data to plot the development of life expectancy over time for different countries on a global map. In total there is around 15000 rows, 60 rows for each country (as there is 60 years), and there are 255 countries in total (including territories). The dataset is in the github repo called "life_expectancy_by_country.csv".
+    The data has no missing values and is easy to use. We use this data to plot the development of life expectancy over time for different countries on a global map. In total there is around 15000 rows, 60 rows for each country (as there is 60 years), and there are 255 countries in total (including territories). The dataset is in the github repo called "life_expectancy_by_country.csv".
 2. [The World Bank data](https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?fbclid=IwAR2Jf_Asqt1WWMuQ_S1bobud8Q36WcVEYDx4lF0RrdCprmiESBD0yyNaGDk)
 
 These are the GDP and Health datasets. For both datasets, we did the same preprocessing. The data contains values for years and countries about GDP or health expenditure in dollars per capita.
