@@ -159,6 +159,44 @@ So while Japan has the highest life expectancy in the world, it is far from perf
 
 All the code used to produce the plots in this article is can be found [here](https://github.com/TheDingodile/social_data_project/blob/master/notebook_main.ipynb). All the data files are in the repository; so if you wish to run the code, be sure to clone the repo first. For easier readability, you can also see the explainer notebook hosted on [NBViewer](https://nbviewer.org/github/TheDingodile/social_data_project/blob/master/notebook_main.ipynb).
 
+**Data Description and Preprocessing**
+We go through each dataset used one by one:
+
+1. [The WHO data on life expectancy for countries over time](https://www.kaggle.com/datasets/ulrikthygepedersen/life-expectancy?fbclid=IwAR0JO7W1_G3prS0O48OITDxvSeQPm64MtaUOIbfNjBCzcHttAUh_tC3xJME)
+
+This dataset is clean from the beginning and consists of 4 columns. The first column is a short-hand code for the country's name; the second column is the country's name, the third column is the year, and the fourth column is the life expectancy.
+
+The data has no missing values and is easy to use. We use this data to plot the development of life expectancy over time for different countries on a global map.
+
+2. [The World Bank data](https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?fbclid=IwAR2Jf_Asqt1WWMuQ_S1bobud8Q36WcVEYDx4lF0RrdCprmiESBD0yyNaGDk)
+
+These are the GDP and Health datasets. For both datasets, we did the same preprocessing. The data contains values for years and countries about GDP or health expenditure in dollars per capita.
+This data is less clean. There are a lot of NaN values which we have excluded. We preprocess this dataset by combining it with the WHO dataset to get a new dataset with 4 columns, year, country,life expectancy and GDP/Health expenditure.
+
+3. [The UN data](https://www.populationpyramid.net/)
+
+This data is what is used to make the population pyramid plots. Each CSV file we got from here represents one country in one year. The data simply consists of 3 columns, age group, amount males and amount females. The only preprocessing that was necessary here was to combine the number of males and females into 1 column, as we decided not to focus on the difference between male and female in this scope.
+
+4. [the OECD data](https://ourworldindata.org/time-use)
+
+This data is used to plot the time spent on daily activities. The data is clean from the beginning and consists of 3 columns, country, activity, and percentage of people doing the activity.
+
+5. [WHO data on obesity rate, daily caloric intake, prevalence of insufficient physical activity and suicide rate](https://apps.who.int/gho/data/node.main)
+
+For these 4 indicators, we used the most recently available data. For obesity and suicice rates this meant data from year 2016, whereas data from 2019 and 2018 was downloaded for prevalence of insufficient physical activity among adults and daily caloric supply, respectively. These data came clean without NaNs and, thus, did not require further preprocessing. The data files simply include two columns; a country column and the value of the indicator.
+
+6. [Cause-specific mortality rates for Germany, Italy, US and Japan data from WHO](https://www.who.int/data/gho/data/themes/mortality-and-global-health-estimates/ghe-leading-causes-of-death)
+
+This data comes clean without NaNs in Excel files for the individual countries. We only kept the 90th percentile of data for each country to visualize that information as the top 10% most common death causes.
+
+7. [Meat consumption data from UN FAO - downloaded from OurWorldinData](https://ourworldindata.org/meat-production)
+
+This data originates from the Food and Agriculture Organization of the United Nations and was obtained via OurWorldinData. The data is clean and did not require further preprocessing before visualization.
+
+8. [The Human Mortality Database](https://www.lifetable.de/)
+
+This website is comprehensive but also by far the messiest to make good use of. Here we obtain the life tabless data tables that can be used to calculate life expectancy and conditioned life expectancy (e.g., given you are this old, how long can you expect to live). This data is used in the "chance of surviving to this age" plot and the plot with the oldest human. For each country, they found sources covering intervals in years that you can check up on. So, for example, some sources may contain data from only every 5 years in some intervals, while other intervals every year, and some years no data at all. In addition, it is very rare for less developed countries to have any sources that go further back in time than the year 2000. The preprocessing consisted of finding a reliable source for each country and year intervals and hopefully finding enough to more or less cover the entire span of 1960 to 2020. (else we simply did linear interpolation between the years we know). The dataset also comes with many other features that had to be sorted out and were separated into male and female, which we simply combined into one category.
+
 **References**
 
 [https://www.clinicbarcelona.org/en/assistance/diseases/ischemic-heart-disease/risk-factors](https://www.clinicbarcelona.org/en/assistance/diseases/ischemic-heart-disease/risk-factors) (more factors for the Ischaemic heart disease)
